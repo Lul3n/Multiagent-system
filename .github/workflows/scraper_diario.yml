@@ -1,0 +1,27 @@
+name: Orquestador - Scraper de Doctores
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: 
+
+jobs:
+  ejecutar-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Descargar el código del repo
+      uses: actions/checkout@v3
+
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Instalar dependencias
+      run: |
+        python -m pip install --upgrade pip
+        # pip install -r requirements.txt
+
+    - name: Correr el agente scraper
+      run: python Scrapper_doctores.py
