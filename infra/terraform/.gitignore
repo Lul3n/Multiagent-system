@@ -1,0 +1,17 @@
+# Archivos de estado de Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# Variables locales con secretos (credenciales AWS, llaves SSH)
+*.tfvars
+!example.tfvars
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs de ejecución
+crash.log
+crash.*.log
