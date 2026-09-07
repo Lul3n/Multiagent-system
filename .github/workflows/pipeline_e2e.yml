@@ -3,8 +3,8 @@
 # Equipo de DevOps e Infraestructura
 # ==============================================================================
 # Este workflow ejecuta automáticamente la cadena completa:
-#   Paso 1: Scraper de Doctores (Equipo 2)
-#   Paso 2: Traductor al Inglés (Equipo 3)
+#   Paso 1: Scraper de Doctores
+#   Paso 2: Traductor al Inglés
 # Y guarda los JSON finales como artefactos descargables en GitHub.
 # ==============================================================================
 
@@ -54,7 +54,7 @@ jobs:
           retention-days: 30
 
   # ================================================================
-  # ETAPA 2: Traducción al Inglés (Equipo 3 - Organizador)
+  # ETAPA 2: Traducción al Inglés
   # ================================================================
   # Se ejecuta DESPUÉS de que el scraper termine exitosamente
   traducir-datos:
@@ -68,10 +68,10 @@ jobs:
         with:
           ref: translator
 
-      - name: Configurar Python 3.10
+      - name: Configurar Python 3.12
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.12'
 
       - name: Instalar dependencias del traductor
         run: |
