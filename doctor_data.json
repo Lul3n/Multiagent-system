@@ -1,0 +1,2028 @@
+[
+    {
+        "nombre_doctor": "Dr.Jorge Landázuri",
+        "especialidad": "Nefrólogo",
+        "cedula": [
+            "10016886",
+            "12691950"
+        ],
+        "experiencia": {
+            "formacion": [
+                "Universidad Autónoma de Guadalajara"
+            ],
+            "sobre_mi": "",
+            "enfermedades_tratadas": [
+                "Glomerulonefritis",
+                "Nefropatía diabética",
+                "Síndrome nefrótico",
+                "Insuficiencia renal",
+                "Nefritis lúpica",
+                "Insuficiencia crónica del riñón",
+                "Enfermedad renal",
+                "Rechazo al trasplante",
+                "Enfermedad renal terminal",
+                "Enfermedad renal poliquística autosómica dominante",
+                "Enfermedad renal ateroesclerótica"
+            ],
+            "lenguajes": [
+                "Español"
+            ],
+            "enfoques": [
+                "Nefropatías glomerulares",
+                "Hemodiálisis",
+                "Dpca",
+                "Trasplante renal"
+            ],
+            "pacientes": [
+                "Adultos"
+            ],
+            "redes_sociales": []
+        },
+        "clinicas": [
+            {
+                "nombre clinica": "Hospital San Jose de Guaymas",
+                "direccion": "Boulevard Tetakawi 4-5,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=27.9589825,-111.0383759",
+                "telefonos": [
+                    "33 3956 8545",
+                    "622 176 1100"
+                ]
+            }
+        ],
+        "servicios": [
+            {
+                "servicio": "Primera visita Nefrología",
+                "precio": "$1,000"
+            },
+            {
+                "servicio": "Colocación de cateter para hemodiálisis",
+                "precio": "Servicio gratuito"
+            },
+            {
+                "servicio": "Valoración prequirúrgica",
+                "precio": "Servicio gratuito"
+            },
+            {
+                "servicio": "Ultrasonido renal",
+                "precio": "Servicio gratuito"
+            },
+            {
+                "servicio": "Tratamiento con eritropoyetina",
+                "precio": "Servicio gratuito"
+            },
+            {
+                "servicio": "Trasplante renal",
+                "precio": "Servicio gratuito"
+            },
+            {
+                "servicio": "Terapia de reemplazo renal lenta contínua (TCRR)",
+                "precio": "Servicio gratuito"
+            },
+            {
+                "servicio": "Perfil de litiasis renal",
+                "precio": "Servicio gratuito"
+            },
+            {
+                "servicio": "Fístulas arteriovenosas para hemodiálisis",
+                "precio": "Servicio gratuito"
+            },
+            {
+                "servicio": "Hemodiálisis",
+                "precio": "Servicio gratuito"
+            },
+            {
+                "servicio": "Filtrado glomerular",
+                "precio": "Servicio gratuito"
+            },
+            {
+                "servicio": "Diálisis peritoneal automatizada",
+                "precio": "Servicio gratuito"
+            },
+            {
+                "servicio": "Diálisis peritoneal",
+                "precio": "Servicio gratuito"
+            },
+            {
+                "servicio": "Diálisis",
+                "precio": "Servicio gratuito"
+            },
+            {
+                "servicio": "Colocación de catéter peritoneal permanente",
+                "precio": "Servicio gratuito"
+            },
+            {
+                "servicio": "Biopsia renal percutánea",
+                "precio": "Desde $0"
+            },
+            {
+                "servicio": "Visita domiciliaria Nefrología",
+                "precio": "Servicio gratuito"
+            }
+        ],
+        "aseguradoras": [],
+        "opiniones": [
+            {
+                "nombre opinion": "Carlos Dávila",
+                "estrellas": "5",
+                "comentario": "Excelente atención al paciente muy puntual nos dio mucha confianza",
+                "fecha": "13 de agosto de 2026",
+                "lugar": "Hospital San Jose de Guaymas",
+                "procedimiento": "Primera visita Nefrología"
+            },
+            {
+                "nombre opinion": "José Sandoval",
+                "estrellas": "5",
+                "comentario": "\"Muchísimas gracias por su tiempo y por su valiosa opinión. Le agradecemos mucho la claridad y la confianza que nos transmitió. Que Dios lo bendiga siempre por su gran vocación.\"",
+                "fecha": "7 de agosto de 2026",
+                "lugar": "Hospital San Jose de Guaymas",
+                "procedimiento": "Primera visita Nefrología"
+            },
+            {
+                "nombre opinion": "Ma de los angeles",
+                "estrellas": "5",
+                "comentario": "Excelente atenciónNos atendió con amabilidad mucho énfasis en mis laboratorios y medicamentos",
+                "fecha": "4 de agosto de 2026",
+                "lugar": "Hospital San Jose de Guaymas",
+                "procedimiento": "Primera visita Nefrología"
+            },
+            {
+                "nombre opinion": "GGDG",
+                "estrellas": "5",
+                "comentario": "ProfesionalismoOptimismo y empatía con el paciente",
+                "fecha": "31 de julio de 2026",
+                "lugar": "Hospital San Jose de Guaymas",
+                "procedimiento": "Primera visita Nefrología"
+            },
+            {
+                "nombre opinion": "Gerardo Armenta gazcon",
+                "estrellas": "5",
+                "comentario": "MUY BUENA ATENCION Y MUCHO CONOCIMIENTO EN SU PROFESION",
+                "fecha": "21 de julio de 2026",
+                "lugar": "Hospital San Jose de Guaymas",
+                "procedimiento": "Primera visita Nefrología"
+            },
+            {
+                "nombre opinion": "LG",
+                "estrellas": "5",
+                "comentario": "Excelente atención y profesionalismo  que permite recomendarlo ampliamente",
+                "fecha": "7 de junio de 2026",
+                "lugar": "Hospital San Jose de Guaymas",
+                "procedimiento": "Primera visita Nefrología"
+            },
+            {
+                "nombre opinion": "Andrea Garay",
+                "estrellas": "5",
+                "comentario": "Excelente doctor, muy humano, muy paciente con las personas mayores y muy explícito en cada detalle de la CC consulta.",
+                "fecha": "4 de mayo de 2026",
+                "lugar": "Hospital San Jose de Guaymas",
+                "procedimiento": "Primera visita Nefrología"
+            },
+            {
+                "nombre opinion": "Rossy Arenas",
+                "estrellas": "5",
+                "comentario": "Excelente atención, explicaciones muy claras, recomendado ampliamente",
+                "fecha": "30 de abril de 2026",
+                "lugar": "Hospital San Jose de Guaymas",
+                "procedimiento": "Primera visita Nefrología"
+            },
+            {
+                "nombre opinion": "Ana Luisa Albañez Maldonado",
+                "estrellas": "5",
+                "comentario": "Excelente atención.  Muy detalladas sus explicaciones. Excelentw persona",
+                "fecha": "28 de abril de 2026",
+                "lugar": "Hospital San Jose de Guaymas",
+                "procedimiento": "Primera visita Nefrología"
+            },
+            {
+                "nombre opinion": "JR Ochoa",
+                "estrellas": "5",
+                "comentario": "Muy buena atención, paciencia con los adultos mayores información detallada",
+                "fecha": "14 de abril de 2026",
+                "lugar": "Hospital San Jose de Guaymas",
+                "procedimiento": "Primera visita Nefrología"
+            }
+        ],
+        "scrap date": "2026-08-30 23:21:50"
+    },
+    {
+        "nombre_doctor": "Dr.José Heliodoro González Zepeda",
+        "especialidad": "Ginecólogo",
+        "cedula": [
+            "7440101",
+            "4058420",
+            "6926876"
+        ],
+        "experiencia": {
+            "formacion": [
+                "GINECOLOGIA ONCOLOGICA, UNAM, 2012GINECOLOGIA Y OBSTETRICIA, U DE G, 2009"
+            ],
+            "sobre_mi": "Hola! Soy el Dr. José, especialista en Ginecologia Oncologica, por la UNAM,.El bienestar de mi paciente es mi prioridad, por ello para mi es importante acompañar a mis pacientes con un trato amable y respetuoso.Brindaré mi apoyo a cada paciente desde el diagnóstico, pasando por todo el proceso de tratamiento hasta que mejore y se recupere.Puedes sentir la tranquilidad de que tu salud estará en manos expertas. ¡Será un gusto atenderte!",
+            "enfermedades_tratadas": [
+                "Cáncer de la vulva",
+                "Neoplasia trofoblástica gestacional",
+                "Displasia cervical",
+                "Cáncer endometrial",
+                "Cáncer de vagina",
+                "Cáncer del cuello uterino",
+                "Cáncer de los ovarios",
+                "Neoplasia intraepitelial cervical",
+                "Cáncer de mama",
+                "Enfermedad fibroquística de las mamas",
+                "Mastopatia fibroquística",
+                "Cáncer de útero"
+            ],
+            "lenguajes": [
+                "Español",
+                "Inglés",
+                "Portugués"
+            ],
+            "enfoques": [
+                "Ginecología oncológica",
+                "Patología mamaria",
+                "Colposcopia",
+                "Laparoscopia"
+            ],
+            "pacientes": [
+                "Adultos (Sólo en algunas direcciones)"
+            ],
+            "redes_sociales": [
+                "//www.facebook.com/Dr-Jose-Heliodoro-Gonzalez-Zepeda-101712162301207/",
+                "//www.instagram.com/joseheliodorogonzalezzepeda/www.instagram.com/joseheliodorogonzalezzepeda/"
+            ]
+        },
+        "clinicas": [
+            {
+                "nombre clinica": "Hospital San José de Hermosillo",
+                "direccion": "Blvd. Morelos #340 Colonia Bachoco,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=29.1206875,-110.9520264",
+                "telefonos": [
+                    "662 109 0500",
+                    "662 109 0500"
+                ]
+            },
+            {
+                "nombre clinica": "HOSPITAL SAN JOSE DE GUAYMAS",
+                "direccion": "Blvd. Tetakawi,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=27.960783,-111.0323639",
+                "telefonos": [
+                    "662 492 0736",
+                    "Sin esperas"
+                ]
+            },
+            {
+                "nombre clinica": "Clínica Embryogen",
+                "direccion": "Calle Lazaro Mercado #22 ,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=29.0967197,-111.0162888",
+                "telefonos": []
+            }
+        ],
+        "servicios": [
+            {
+                "servicio": "Visitas sucesivas Ginecología y Obstetricia",
+                "precio": "None"
+            },
+            {
+                "servicio": "Primera visita Ginecología y Obstetricia",
+                "precio": "Desde $1,000"
+            },
+            {
+                "servicio": "Colposcopia",
+                "precio": "None"
+            },
+            {
+                "servicio": "Consulta de primera vez",
+                "precio": "Desde $1,000"
+            }
+        ],
+        "aseguradoras": [
+            "GNP Seguros",
+            "AXA Seguros",
+            "MAPFRE",
+            "Seguros Atlas",
+            "MetLife México",
+            "Zurich",
+            "Bupa México",
+            "Allianz",
+            "Seguros Inbursa",
+            "Metropolitana",
+            "Seguros Monterrey",
+            "Plan Seguro",
+            "Latino Seguros",
+            "Seguros Banorte",
+            "Pan-American"
+        ],
+        "opiniones": [
+            {
+                "nombre opinion": "Angélica",
+                "estrellas": "5",
+                "comentario": "Mi visita fue excelente, reviso todos los estudios, me valoro me escucho con atención, respondió todas mis dudas es muy amable un gran médico lo recomiendo ampliamente. Me siento muy satisfecha por la consulta y feliz por el resultado estoy bien de salud gad.",
+                "fecha": "29 de octubre de 2024",
+                "lugar": "Hospital San José de Hermosillo",
+                "procedimiento": "Colposcopia"
+            },
+            {
+                "nombre opinion": "Maciel",
+                "estrellas": "5",
+                "comentario": "Me gustó mucho el trato del doctor y sobre todo que te explica todo y te pregunta si tienes alguna duda. Aparte se ve que es un experto al momento de realizar los estudios.",
+                "fecha": "26 de marzo de 2024",
+                "lugar": "Hospital San José de Hermosillo",
+                "procedimiento": "Primera visita Ginecología y Obstetricia"
+            },
+            {
+                "nombre opinion": "JLSA",
+                "estrellas": "5",
+                "comentario": "El doctor es honesto, transparente y muy profesional, se toma el tiempo de explicarte hasta que te queden claras las cosas lo cual me brinda mucha tranquilidad.",
+                "fecha": "30 de enero de 2024",
+                "lugar": "Hospital San José de Hermosillo",
+                "procedimiento": "Visitas sucesivas Ginecología y Obstetricia"
+            },
+            {
+                "nombre opinion": "KZMM",
+                "estrellas": "5",
+                "comentario": "Excelente trato y muy bien explicado mi diagnostico.",
+                "fecha": "26 de agosto de 2026",
+                "lugar": "Hospital San José de Hermosillo",
+                "procedimiento": "Visitas sucesivas Ginecología y Obstetricia"
+            },
+            {
+                "nombre opinion": "Teresita de Jesús badilla",
+                "estrellas": "5",
+                "comentario": "Muy bien  excelente servicio muy buen médico explica con detalle cada cosa",
+                "fecha": "26 de agosto de 2026",
+                "lugar": "Hospital San José de Hermosillo",
+                "procedimiento": "Visitas sucesivas Ginecología y Obstetricia"
+            },
+            {
+                "nombre opinion": "GFO",
+                "estrellas": "5",
+                "comentario": "Excelente atención y explicaciones muy detalladas y pacientes.Pronto operará a mi madre. Esta en sus manos.",
+                "fecha": "25 de agosto de 2026",
+                "lugar": "Hospital San José de Hermosillo",
+                "procedimiento": "Visitas sucesivas Ginecología y Obstetricia"
+            },
+            {
+                "nombre opinion": "Ruth",
+                "estrellas": "5",
+                "comentario": "Excelente servicio y explicación muy detallada. Muy buen oncólogo.",
+                "fecha": "25 de agosto de 2026",
+                "lugar": "Hospital San José de Hermosillo",
+                "procedimiento": "Otro"
+            },
+            {
+                "nombre opinion": "Keila Yared Ramírez Camberos",
+                "estrellas": "5",
+                "comentario": "Muy atento, muy profesional, quedé tranquila con su explicación",
+                "fecha": "24 de agosto de 2026",
+                "lugar": "Hospital San José de Hermosillo",
+                "procedimiento": "Primera visita Ginecología y Obstetricia"
+            },
+            {
+                "nombre opinion": "S.R.L",
+                "estrellas": "5",
+                "comentario": "Excelente medico, con una explicación super clara  de mi padecimiento (endometriosis) me brindo información que ningún medico me había explicado te hace sentir cómoda ,segura  y acompañada  en el proceso brinda alternativas sobre el tratamiento mas recomendado",
+                "fecha": "21 de agosto de 2026",
+                "lugar": "HOSPITAL SAN JOSE DE GUAYMAS",
+                "procedimiento": "Primera visita Ginecología y Obstetricia"
+            },
+            {
+                "nombre opinion": "Brenda Aracely Urias",
+                "estrellas": "5",
+                "comentario": "Muy amable y atento, me sentí muy cómoda y tranquila.",
+                "fecha": "19 de agosto de 2026",
+                "lugar": "Hospital San José de Hermosillo",
+                "procedimiento": "Primera visita Ginecología y Obstetricia"
+            }
+        ],
+        "scrap date": "2026-08-30 23:22:02"
+    },
+    {
+        "nombre_doctor": "Siria Maria Carvajal Lohr",
+        "especialidad": "Hematólogo",
+        "cedula": [
+            "08707283",
+            "10993684"
+        ],
+        "experiencia": {
+            "formacion": [
+                "Hematología, Unidad Médica de Alta Especialidad CMN La Raza / UNAMAprobada por el Consejo Mexicano de Hematología AC-Master Universitario Medicina Transfusional y Terapias Celulares Avanzadas. Universidad Autónoma  Barcelona."
+            ],
+            "sobre_mi": "--Hematología:  Hospital de Especialidades Centro Médico Nacional La Raza. Ciudad de México /02/2017).-Aprobada por el Consejo Mexicano de Hematología AC (10/03/2017)-Master Universitario Medicina Transfusional y Terapias Celulares Avanzadas. Escola Dr Robert/ Universidad Autónoma  Barcelona.2018- 2020- Hematológos en hermosilloCURSOS/ACTIVIDADES•\t“XXVI Curso Regional del Colegio de Medicina Interna del Noroeste A.C.” Monterey, NL. 2013•\t“Curso-Taller Intermedio Avanzado de Ventilación Mecánica.” Monterrey, NL. 2014.•\t“10º Curso de Actualización en hematología diagnóstica y terapéutica para Residentes de Hematología” 17 y 18 Febrero 2017. Cd. De México.•\t“Hematology Meet the Expert Meeting 2017”. Agosto 2017. Cd De Mexico.•\t“Bleeding Disorders Interactive Summit”. Mérida, Yucatán. Marzo 2018.•\t“LIX Congreso Nacional de Hematología”. Nuevo Vallarta. Abril 2018.•\t“Interpretación en la Biometría Hemática”. Conferencista. Hermosillo, Son. Mayo 2018.•\t“Enfoque”. Querétraro. Julio 2018.•\t“Hemoforum”. Cancún, Q.Roo. Octubre 2018.•\tProfesor Ayudante en la Especialidad de Medicina Interna. Universidad Autónoma de Sinaloa. 1/03/2017- a la fecha•\t“Closing the gaps in haemophilia treatment” Cancún, México. Noviembre 2018.•\t“Actualidades en el Tratamiento del Paciente con Hemofilia”. Oxtepec, Morelos. Noviembre 2018.•\tLX Congreso Nacional de Hematologia. Abril 2019, Chiahuahua, México..      Secretario del Colegio de Hematología del Noroeste",
+            "enfermedades_tratadas": [
+                "Linfoma de Hodgkin",
+                "Trombocitosis esencial",
+                "Trombocitopenia",
+                "Leucemia mielógena crónica (LMC)",
+                "Leucemia",
+                "LLC",
+                "Coagulopatía",
+                "Linfoma no Hodgkin",
+                "Policitemia primaria",
+                "Anemia",
+                "Mieloma múltiple",
+                "Neutropenia",
+                "Púrpura trombocitopénica inmunitaria",
+                "Púrpura trombocitopénica trombótica",
+                "Púrpura trombocitopénica idiopática (ITP)",
+                "Anemia hemolítica",
+                "Anemia ferropénica",
+                "Anemia hemolítica autoinmunitaria idiopática",
+                "Estados hipercoagulables",
+                "Plaquetas bajas o altas",
+                "Problemas de sangrados",
+                "Leucemia linfocitica cronica",
+                "Linfoma",
+                "QUIMIOTERAPIA"
+            ],
+            "lenguajes": [
+                "Inglés",
+                "Español",
+                "Francés"
+            ],
+            "enfoques": [
+                "Trasplante medula ósea",
+                "Transfusión y banco de sangre",
+                "Trombosis y hemostasia",
+                "Inmuno-oncología"
+            ],
+            "pacientes": [
+                "Adultos"
+            ],
+            "redes_sociales": [
+                "//www.facebook.com/HematologoSiria",
+                "//www.instagram.com/drasiria"
+            ]
+        },
+        "clinicas": [
+            {
+                "nombre clinica": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste/ Al interior del Edificio que dice. Laboratorio de Patologia ) 83000 Hermosillo",
+                "direccion": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste),",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=29.0811501,-110.9507523",
+                "telefonos": [
+                    "662 344 3972",
+                    "662 358 2217"
+                ]
+            },
+            {
+                "nombre clinica": "Oncología San  José (Hospital San José/ Acceso por el tercer nivel del estacionamiento del hospital)",
+                "direccion": "Benito Juarez 463,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=29.1212082,-110.9528503",
+                "telefonos": [
+                    "662 689 3292",
+                    "662 344 3972"
+                ]
+            },
+            {
+                "nombre clinica": "HOSPITAL SAN JOSE SAN CARLOS NUEVO GUAYMAS",
+                "direccion": "BLVD TETAKAWI,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=27.960783,-111.0323639",
+                "telefonos": [
+                    "622 689 0793",
+                    "662 689 3292"
+                ]
+            }
+        ],
+        "servicios": [
+            {
+                "servicio": "Primera visita Hematología",
+                "precio": "Desde $1,000"
+            },
+            {
+                "servicio": "Visita Hematología",
+                "precio": "Desde $1,000"
+            },
+            {
+                "servicio": "Visitas sucesivas Hematología",
+                "precio": "Desde $1,000"
+            },
+            {
+                "servicio": "Aspirado de médula ósea",
+                "precio": "Desde $5,000"
+            },
+            {
+                "servicio": "Biometría Hemática",
+                "precio": "None"
+            },
+            {
+                "servicio": "Biopsia de médula ósea por punción",
+                "precio": "None"
+            },
+            {
+                "servicio": "Estudio de la médula ósea",
+                "precio": "None"
+            },
+            {
+                "servicio": "Punción lumbar",
+                "precio": "None"
+            },
+            {
+                "servicio": "Quimioterapia (por ciclo de 3 a 4 semanas)",
+                "precio": "None"
+            },
+            {
+                "servicio": "Sangría terapéutica",
+                "precio": "None"
+            },
+            {
+                "servicio": "Transfusión de sangre o hemoderivados",
+                "precio": "None"
+            },
+            {
+                "servicio": "Tratamiento anticoagulante",
+                "precio": "None"
+            },
+            {
+                "servicio": "Tratamiento con hierro parenteral",
+                "precio": "None"
+            },
+            {
+                "servicio": "Visita domiciliaria Hematología",
+                "precio": "None"
+            },
+            {
+                "servicio": "Consulta hematología",
+                "precio": "Desde $1,000"
+            },
+            {
+                "servicio": "Consulta subsecuente",
+                "precio": "Desde $1,000"
+            }
+        ],
+        "aseguradoras": [
+            "GNP Seguros",
+            "AXA Seguros",
+            "Seguros Atlas",
+            "MetLife México",
+            "Seguros Monterrey",
+            "Ajuste a Tabulador"
+        ],
+        "opiniones": [
+            {
+                "nombre opinion": "Guillermo Diaz Villanueva",
+                "estrellas": "5",
+                "comentario": "Atencion muy amable y profesional, la Doctora muy competente y explicita",
+                "fecha": "17 de agosto de 2026",
+                "lugar": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste/ Al interior del Edificio que dice. Laboratorio de Patologia ) 83000 Hermosillo",
+                "procedimiento": "Primera visita Hematología"
+            },
+            {
+                "nombre opinion": "F.R.",
+                "estrellas": "5",
+                "comentario": "Todo excelentemente explicado, su trato super amable",
+                "fecha": "4 de agosto de 2026",
+                "lugar": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste/ Al interior del Edificio que dice. Laboratorio de Patologia ) 83000 Hermosillo",
+                "procedimiento": "Primera visita Hematología"
+            },
+            {
+                "nombre opinion": "Laura Borquez",
+                "estrellas": "5",
+                "comentario": "Muy bien, muy atenta y atinada la doctora, empática y especial.",
+                "fecha": "26 de junio de 2026",
+                "lugar": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste/ Al interior del Edificio que dice. Laboratorio de Patologia ) 83000 Hermosillo",
+                "procedimiento": "Primera visita Hematología"
+            },
+            {
+                "nombre opinion": "Bianca",
+                "estrellas": "5",
+                "comentario": "Recomiendo ampliamente, fui a mi primer consulta y salí realmente encantada con el trato, la información detallada y específica, la doctora sabe de lo que habla y transmite la confianza y certeza al momento de explicarte lo relacionado a tu padecimiento. Muchas gracias",
+                "fecha": "5 de junio de 2026",
+                "lugar": "Oncología San  José (Hospital San José/ Acceso por el tercer nivel del estacionamiento del hospital)",
+                "procedimiento": "Primera visita Hematología"
+            },
+            {
+                "nombre opinion": "Ricardo  A Armenta E",
+                "estrellas": "5",
+                "comentario": "Pues fue la primera visita con ella y nos gustó su trato su manera de revisar a mi hija y de hablarnos con mucha responsabilidad sin dar un diagnostico apresurado...",
+                "fecha": "25 de marzo de 2026",
+                "lugar": "Oncología San  José (Hospital San José/ Acceso por el tercer nivel del estacionamiento del hospital)",
+                "procedimiento": "Primera visita Hematología"
+            },
+            {
+                "nombre opinion": "Ildelisa Martínez",
+                "estrellas": "5",
+                "comentario": "Doctora Siria es muy atenta, paciente e indaga a fondo. Nos explico como seria su tratamiento paso a paso",
+                "fecha": "27 de enero de 2026",
+                "lugar": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste/ Al interior del Edificio que dice. Laboratorio de Patologia ) 83000 Hermosillo",
+                "procedimiento": "Primera visita Hematología"
+            },
+            {
+                "nombre opinion": "Marisol Mendoza",
+                "estrellas": "5",
+                "comentario": "Nos recomendaron a la Dra, y nos dio mucha tranquilidad explica muy bien las cosas, muy profesional. Apenas iniciaremos el tratamiento y nos dio la confianza y seguridad que las cosas tienen solución y mejorarán.",
+                "fecha": "21 de enero de 2026",
+                "lugar": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste/ Al interior del Edificio que dice. Laboratorio de Patologia ) 83000 Hermosillo",
+                "procedimiento": "Primera visita Hematología"
+            },
+            {
+                "nombre opinion": "Mariana A.",
+                "estrellas": "5",
+                "comentario": "La Dra. muy amable, paciente y dando información detallada. Me gustó que no se quedaba solo con la información que yo le decía sino que indagaba. Me pareció excelente.",
+                "fecha": "13 de diciembre de 2025",
+                "lugar": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste/ Al interior del Edificio que dice. Laboratorio de Patologia ) 83000 Hermosillo",
+                "procedimiento": "Primera visita Hematología"
+            },
+            {
+                "nombre opinion": "Lucia Doumerc",
+                "estrellas": "5",
+                "comentario": "Muy profesional y buena atención explicacion a detalle de cada procesa a hacer.",
+                "fecha": "14 de noviembre de 2025",
+                "lugar": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste/ Al interior del Edificio que dice. Laboratorio de Patologia ) 83000 Hermosillo",
+                "procedimiento": "Primera visita Hematología"
+            },
+            {
+                "nombre opinion": "Susana Gpe Estupiñan",
+                "estrellas": "5",
+                "comentario": "Execente atención, atenta al pciente, buena explicación empática",
+                "fecha": "14 de octubre de 2025",
+                "lugar": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste/ Al interior del Edificio que dice. Laboratorio de Patologia ) 83000 Hermosillo",
+                "procedimiento": "Primera visita Hematología"
+            }
+        ],
+        "scrap date": "2026-08-30 23:22:04"
+    },
+    {
+        "nombre_doctor": "Dr.Miguel Abraham Lara Perez",
+        "especialidad": "Angiólogo",
+        "cedula": [
+            "12812934"
+        ],
+        "experiencia": {
+            "formacion": "None",
+            "sobre_mi": "Angiología es basado en la disciplina dedicada a la profilaxis, estudio y tratamiento médico-quirúrgico de las enfermedades vasculares(venas, arterias y linfáticos), exceptuando las cardiacas e intracraneales.Lo más importante para usted es obtener un diagnóstico certero desde su primera valoración para iniciar un tratamiento preciso y mejorar su estado de salud actual,nosotros le ofrecemos ese beneficio100%.",
+            "enfermedades_tratadas": [
+                "Coágulo en las piernas",
+                "Arterioesclerosis de las extremidades",
+                "Hemangioma",
+                "Embolia arterial",
+                "Insuficiencia venosa crónica",
+                "Linfedema",
+                "Tromboflebitis",
+                "Aneurisma aórtico abdominal",
+                "Enfermedad cerebrovascular",
+                "Tromboembolia venosa",
+                "Disección aórtica",
+                "Enfermedad vascular periférica",
+                "Síndrome de oclusión de la arteria carótida",
+                "Insuficiencia venosa",
+                "Gangrena",
+                "Trombosis venosa profunda",
+                "Arteriopatía periférica",
+                "Insuficiencia arterial",
+                "Arterioesclerosis",
+                "Gangrena de tejidos blandos",
+                "Ateroesclerosis",
+                "Telangiectasia",
+                "Acumulación de placa en las arterias",
+                "Malformaciones arteriovenosas",
+                "Varicosidad",
+                "Aneurisma",
+                "Venas varicosas",
+                "Aneurisma aórtico",
+                "Flebitis",
+                "Pie Diabético",
+                "Be"
+            ],
+            "lenguajes": [
+                "Español"
+            ],
+            "enfoques": [
+                "Cirugía arterial",
+                "Cirugía endovascular",
+                "Diagnóstico vascular no invasivo",
+                "Angiología"
+            ],
+            "pacientes": [
+                "Adultos",
+                "Niños"
+            ],
+            "redes_sociales": [
+                "//www.facebook.com/profile.php?id=100082785520919",
+                "//www.instagram.com/dr.abrahamlara"
+            ]
+        },
+        "clinicas": [
+            {
+                "nombre clinica": "TORRE MEDICA CIMA",
+                "direccion": "Avenida Paseo Río San Miguel,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=29.0654335,-110.962738",
+                "telefonos": [
+                    "622 188 0074",
+                    "Sin esperas"
+                ]
+            },
+            {
+                "nombre clinica": "Hospital San Jose",
+                "direccion": "Blvd. José María Morelos 340,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=29.1206551,-110.9514999",
+                "telefonos": [
+                    "622 188 0074",
+                    "Sin esperas"
+                ]
+            },
+            {
+                "nombre clinica": "Hospital San Jose Guaymas",
+                "direccion": "San Carlos,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=27.9530983,-111.0668716",
+                "telefonos": [
+                    "622 188 0074",
+                    "Sin esperas"
+                ]
+            },
+            {
+                "nombre clinica": "Consulta en línea",
+                "direccion": "None",
+                "mapa": "None",
+                "telefonos": [
+                    "622 188 0074",
+                    "Sin esperas"
+                ]
+            },
+            {
+                "nombre clinica": "Hospital San Diego Alcala",
+                "direccion": "Calle Benito Juárez & Avenida Nuevo León,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=29.0833035,-110.9538269",
+                "telefonos": [
+                    "622 188 0074",
+                    "Sin esperas"
+                ]
+            },
+            {
+                "nombre clinica": "CENTRO MEDICO NOROESTE",
+                "direccion": "Avenida Luis Donaldo Colosio Murrieta 23,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=29.0815735,-110.9507599",
+                "telefonos": [
+                    "622 188 0074",
+                    "Sin esperas"
+                ]
+            }
+        ],
+        "servicios": [
+            {
+                "servicio": "Primera visita Angiología y Cirugia Vascular",
+                "precio": "Desde $0"
+            },
+            {
+                "servicio": "Extracción de hemangiomas",
+                "precio": "None"
+            },
+            {
+                "servicio": "Consulta subsecuente",
+                "precio": "Desde $800"
+            },
+            {
+                "servicio": "Curaciones de Pie Diabético",
+                "precio": "Desde $1,200"
+            },
+            {
+                "servicio": "Doppler venoso eeii o eess",
+                "precio": "None"
+            },
+            {
+                "servicio": "Embolización venosa pélvica",
+                "precio": "None"
+            },
+            {
+                "servicio": "Esclerosis láser de varices",
+                "precio": "None"
+            },
+            {
+                "servicio": "Esclerosis química de varices",
+                "precio": "None"
+            },
+            {
+                "servicio": "Escleroterapia",
+                "precio": "None"
+            },
+            {
+                "servicio": "Escleroterapia con solución",
+                "precio": "None"
+            },
+            {
+                "servicio": "Reintervenciones por trombosis y hemorragias",
+                "precio": "None"
+            },
+            {
+                "servicio": "Cirugía de safena por radiofrecuencia (cerrada)",
+                "precio": "None"
+            },
+            {
+                "servicio": "Tratamiento de la enfermedad carotidea",
+                "precio": "Desde $1,500"
+            },
+            {
+                "servicio": "Tratamiento endovascular para trombosis venosa aguda",
+                "precio": "None"
+            },
+            {
+                "servicio": "Trombectomia de vena cava superior y de sus ramas",
+                "precio": "None"
+            },
+            {
+                "servicio": "Trombectomia ílio-cava o cava inferior",
+                "precio": "None"
+            },
+            {
+                "servicio": "Trombectomía venosa de extremidades",
+                "precio": "None"
+            },
+            {
+                "servicio": "Trombosis Arterial",
+                "precio": "None"
+            },
+            {
+                "servicio": "Trombosis venosa. Ligadura cayado de la vena safena interna y externa",
+                "precio": "None"
+            },
+            {
+                "servicio": "Valoración y prevención del pie diabético",
+                "precio": "None"
+            },
+            {
+                "servicio": "Colocación percutánea catéter venoso",
+                "precio": "None"
+            },
+            {
+                "servicio": "Diagnóstico y tratamiento de úlceras en las piernas",
+                "precio": "None"
+            },
+            {
+                "servicio": "Cirugía de la bifurcación carotidea",
+                "precio": "None"
+            },
+            {
+                "servicio": "Angioplastia sectores ileofemoral y femoropoplíteo",
+                "precio": "None"
+            },
+            {
+                "servicio": "Aneurismas",
+                "precio": "None"
+            },
+            {
+                "servicio": "Angioplastia arterial y venosa",
+                "precio": "None"
+            },
+            {
+                "servicio": "Angioplastia de la aorta abdominal",
+                "precio": "None"
+            },
+            {
+                "servicio": "Angioplastia en oclusión de carótida y vertebral",
+                "precio": "None"
+            },
+            {
+                "servicio": "Cirugía angiodisplasias complejas",
+                "precio": "None"
+            },
+            {
+                "servicio": "Angioplastia quirúrgica y revestimiento simple de extremidades",
+                "precio": "None"
+            },
+            {
+                "servicio": "Angioplastia femoropoplítea unilateral",
+                "precio": "None"
+            },
+            {
+                "servicio": "Arteriografía unilateral de miembros superiores",
+                "precio": "None"
+            },
+            {
+                "servicio": "By-pass con injertos vasculares",
+                "precio": "None"
+            },
+            {
+                "servicio": "By-pass fémoro-poplíteo, primera porción con vena y/o prótesis",
+                "precio": "None"
+            },
+            {
+                "servicio": "By-pass a-v con vena o próesis para hemodiálisis",
+                "precio": "None"
+            },
+            {
+                "servicio": "By-pass de aorta abdominal y infrarenal, bi-ilíaco y bifemoral",
+                "precio": "None"
+            },
+            {
+                "servicio": "By-pass fémoro-poplíteo con angioplastia",
+                "precio": "None"
+            },
+            {
+                "servicio": "Várices: Diagnóstico y tratamiento",
+                "precio": "None"
+            },
+            {
+                "servicio": "By-pass aorto-ilíaco y aorto-femoral",
+                "precio": "None"
+            },
+            {
+                "servicio": "Reconstrucción y revascularización de aneurisma periférico",
+                "precio": "None"
+            },
+            {
+                "servicio": "Fístulas arteriovenosas para hemodiálisis",
+                "precio": "None"
+            },
+            {
+                "servicio": "Consulta Cirurgia Vascular",
+                "precio": "None"
+            },
+            {
+                "servicio": "Tratamiento quirúrgico para insuficiencia arterial aguda",
+                "precio": "None"
+            },
+            {
+                "servicio": "Exéresis de by-pass o fístula a-v",
+                "precio": "None"
+            },
+            {
+                "servicio": "Amputación de extremidades",
+                "precio": "None"
+            },
+            {
+                "servicio": "Visitas sucesivas Angiología y Cirugia Vascular",
+                "precio": "Desde $1,000"
+            },
+            {
+                "servicio": "Trombosis venosa de cava, by-pass",
+                "precio": "$1,500"
+            },
+            {
+                "servicio": "Visita Angiología y Cirugia Vascular",
+                "precio": "None"
+            },
+            {
+                "servicio": "Ultrasonido Doppler arterial en extremidades",
+                "precio": "None"
+            },
+            {
+                "servicio": "Ultrasonido Doppler venoso en extremidades",
+                "precio": "None"
+            },
+            {
+                "servicio": "Consulta en línea",
+                "precio": "None"
+            },
+            {
+                "servicio": "Varices recidivantes",
+                "precio": "None"
+            }
+        ],
+        "aseguradoras": [
+            "GNP Seguros",
+            "AXA Seguros",
+            "MAPFRE",
+            "Seguros Atlas",
+            "MetLife México",
+            "Zurich",
+            "Bupa México",
+            "Allianz",
+            "Seguros Inbursa",
+            "Metropolitana",
+            "Seguros Monterrey",
+            "Plan Seguro",
+            "Latino Seguros",
+            "Seguros Banorte",
+            "Pan-American",
+            "Odontoprev",
+            "Dentalia",
+            "Centauro",
+            "Integra Salud",
+            "Quálitas",
+            "Multiva",
+            "Medical Home",
+            "Prevem Seguros",
+            "BX+",
+            "Sura",
+            "Human Access",
+            "FIRA",
+            "Arcángel",
+            "SIMNSA",
+            "General de Seguros",
+            "Sinergia Médica",
+            "Seguros El Potosí",
+            "ISSFAM",
+            "Bancomext",
+            "Red Médica Universidad de Guanajuato",
+            "Afirme",
+            "Red Benefit",
+            "Delta Dental",
+            "Blue Cross Blue Shield",
+            "Médica Vial",
+            "Best Doctors",
+            "Inter Mutuelles Assistance",
+            "SAIN",
+            "AIG",
+            "CNBV",
+            "Aetna",
+            "Cigna Healthcare",
+            "Principal",
+            "UFCW Health & Welfare Trust",
+            "Universal Assistance",
+            "Dental First",
+            "BBVA Seguros",
+            "GEA Internacional",
+            "Ajuste a Tabulador",
+            "Medical Group",
+            "Seguros Banamex",
+            "Chubb",
+            "Micro Medical",
+            "UADY",
+            "HDI",
+            "HSBC",
+            "Thona Seguros",
+            "PIF",
+            "Banejercito",
+            "Global Excel",
+            "Prodental",
+            "OCEAS",
+            "Guardian Life",
+            "Choice Net",
+            "Vumi",
+            "LYNCPAY",
+            "Scotiabank",
+            "MMS",
+            "Santander Seguros",
+            "Dentegra",
+            "Ameritas",
+            "Asismed",
+            "ASPA",
+            "BANCO BANOBRAS",
+            "Banxico",
+            "Multiservicios Santander",
+            "MSH International",
+            "Inflexión Salud",
+            "Meritain Health",
+            "Mediciplus",
+            "MediExcel",
+            "Musar",
+            "BCBS",
+            "General de Salud",
+            "Red Salud Dental",
+            "United Concordia Dental",
+            "Southwest Service Administrators",
+            "Solorzano Jacquez y Asoc",
+            "Assurant Employee Benefits",
+            "Anthem Blue Cross",
+            "HealthComp",
+            "Delta Health System",
+            "CCPOA Health Benefits",
+            "LINECO",
+            "OMA",
+            "ASPrisma",
+            "Dentralia",
+            "Intuitiv",
+            "International Medical Solutions",
+            "EuroCenter",
+            "Global Health NOW",
+            "Henner Group",
+            "Morgan White",
+            "United Healthcare Global",
+            "Well Be",
+            "Omni Networks",
+            "Sofía",
+            "GEHA",
+            "Humana Dental",
+            "Lincoln Financial Group",
+            "SIGMA",
+            "Banco del Bienestar",
+            "SCT Metro",
+            "Blueassistance",
+            "GMS",
+            "GERSEMI",
+            "INDEP",
+            "Médica Tabasco",
+            "United Healthcare Dental",
+            "Simples Dental",
+            "Operating Engineers Health & Welfare Fund",
+            "Gaha",
+            "SAISUV",
+            "Marina",
+            "ADO",
+            "Punto Pen",
+            "Red Académicos UNAM",
+            "GenoLife",
+            "Quest Diagnostics",
+            "PROSESO",
+            "Turbotec",
+            "Sinil",
+            "Core Seguros",
+            "Primero lozano",
+            "Calibaja",
+            "CADI Soluciones Salud",
+            "Easy Optics",
+            "GOA",
+            "TransSalud",
+            "HanseMerkur"
+        ],
+        "opiniones": [
+            {
+                "nombre opinion": "Yolanda",
+                "estrellas": "5",
+                "comentario": "Excelente médico! muy buen trato y explicación al diagnóstico",
+                "fecha": "28 de agosto de 2026",
+                "lugar": "Hospital San Jose",
+                "procedimiento": "Primera visita Angiología y Cirugia Vascular"
+            },
+            {
+                "nombre opinion": "Julián García",
+                "estrellas": "5",
+                "comentario": "muy buen trato, explica claroatiende muy bien al paciente",
+                "fecha": "25 de agosto de 2026",
+                "lugar": "TORRE MEDICA CIMA",
+                "procedimiento": "Visitas sucesivas Angiología y Cirugia Vascular"
+            },
+            {
+                "nombre opinion": "Luis Villavicencio",
+                "estrellas": "5",
+                "comentario": "Excelente servicio y dedicación al paciente muy recomendable",
+                "fecha": "19 de agosto de 2026",
+                "lugar": "Hospital San Jose",
+                "procedimiento": "Primera visita Angiología y Cirugia Vascular"
+            },
+            {
+                "nombre opinion": "D.M",
+                "estrellas": "5",
+                "comentario": "Mejorar la puntualidad para no hacer esperar tanto tiempo a las personas.",
+                "fecha": "18 de agosto de 2026",
+                "lugar": "TORRE MEDICA CIMA",
+                "procedimiento": "Trombosis venosa. Ligadura cayado de la vena safena interna y externa"
+            },
+            {
+                "nombre opinion": "RC",
+                "estrellas": "5",
+                "comentario": "Muy claro y específico para brindar su explicación",
+                "fecha": "15 de agosto de 2026",
+                "lugar": "Hospital San Jose Guaymas",
+                "procedimiento": "Primera visita Angiología y Cirugia Vascular"
+            },
+            {
+                "nombre opinion": "GGBG",
+                "estrellas": "4",
+                "comentario": "Disminuir el tiempo de espera para ser consultado. Gracias",
+                "fecha": "11 de agosto de 2026",
+                "lugar": "TORRE MEDICA CIMA",
+                "procedimiento": "Visitas sucesivas Angiología y Cirugia Vascular"
+            },
+            {
+                "nombre opinion": "XL",
+                "estrellas": "5",
+                "comentario": "Explicación profesional y detallada del seguimiento, tratamiento y medicación asimismo sugerencias",
+                "fecha": "11 de agosto de 2026",
+                "lugar": "TORRE MEDICA CIMA",
+                "procedimiento": "Visitas sucesivas Angiología y Cirugia Vascular"
+            },
+            {
+                "nombre opinion": "Anel monteverde",
+                "estrellas": "5",
+                "comentario": "Excelente médico explicó y resuelve dudas muy profesional",
+                "fecha": "6 de agosto de 2026",
+                "lugar": "TORRE MEDICA CIMA",
+                "procedimiento": "Primera visita Angiología y Cirugia Vascular"
+            },
+            {
+                "nombre opinion": "JGGB",
+                "estrellas": "5",
+                "comentario": "Excelente médico, además te da mucha confianzaen sus consultas. Sin duda lo recomendaría a mis conocidos...",
+                "fecha": "1 de agosto de 2026",
+                "lugar": "Hospital San Jose Guaymas",
+                "procedimiento": "Primera visita Angiología y Cirugia Vascular"
+            },
+            {
+                "nombre opinion": "Juanita",
+                "estrellas": "5",
+                "comentario": "Excelente atencion y explicaciones detalladasSaludos",
+                "fecha": "31 de julio de 2026",
+                "lugar": "Hospital San Jose",
+                "procedimiento": "Visitas sucesivas Angiología y Cirugia Vascular"
+            }
+        ],
+        "scrap date": "2026-08-30 23:22:05"
+    },
+    {
+        "nombre_doctor": "Dr.Jesús Maríñez",
+        "especialidad": "Gastroenterólogo",
+        "cedula": [
+            "10547939",
+            "14052970"
+        ],
+        "experiencia": {
+            "formacion": [
+                "Médico general, Universidad de Sonora (2017).Curso de Medicina Interna (2019-2020)Especialidad en Gastroenterología, Centro Médico Nacional Siglo XXI/UNAM (2021-2023)Alta Especialidad en Endoscopia Gastrointestinal Avanzada (2024-2025)"
+            ],
+            "sobre_mi": "Hola, soy el Dr. Jesús Manuel Maríñez Rentería, médico gastroenterólogo, egresado delCentro Médico Nacional Siglo XXI, con formación avalada por laUNAM.Me especializo en eldiagnóstico y tratamiento de enfermedades del aparato digestivo, incluyendo esófago, estómago, intestinos, hígado y páncreas.Cuento con experiencia en el manejo de síntomas frecuentes como:dolor abdominal, reflujo, distensión, diarrea, estreñimiento, gastritis, colitis, hepatitis, cirrosis y pancreatitis, entre otros.Elegí esta especialidad porque sé lo mucho que los problemas digestivos pueden afectar tu calidad de vida. Por eso, mi objetivo es ofrecerte una atenciónintegral y personalizada, basada en escuchar con atención, explicar con claridad y brindar un tratamiento eficaz, siempre con un tratohumano, empático y respetuoso.¿Por qué acudir conmigo?Te explico con palabras claras qué tienes y cómo lo vamos a tratarMe enfoco en tu bienestar integral, no solo en aliviar síntomasOfrezco un trato cercano, sin juicios, y resuelvo todas tus dudasCuento con formación en uno de los centros médicos más reconocidos del paísTe brindo seguimiento puntual y acompañamiento durante tu tratamientoTu salud digestiva merece atención especializada y un enfoque cálido.Estoy aquí para ayudarte a sentirte mejor, desde la primera consulta.",
+            "enfermedades_tratadas": [
+                "Reflujo gastroesofágico",
+                "Gastritis",
+                "Colitis",
+                "Estreñimiento",
+                "Dolor abdominal",
+                "Diarrea",
+                "Colon irritable",
+                "Hígado graso",
+                "Hepatitis",
+                "Pancreatitis",
+                "Diarrea crónica",
+                "Gastroenteritis aguda",
+                "Pólipos intestinales",
+                "Úlcera péptica",
+                "Hepatitis autoinmunitaria",
+                "Cirrosis biliar primaria",
+                "Disfagia",
+                "Condiciones relacionadas con ictericia",
+                "Diverticulitis",
+                "Acidez",
+                "Enfermedad inflamatoria intestinal",
+                "Colitis ulcerosa",
+                "Gastritis crónica",
+                "Gastroparesia",
+                "Pancreatitis crónica",
+                "Encefalopatía hepática",
+                "Síndrome del intestino irritable"
+            ],
+            "lenguajes": "None",
+            "enfoques": [
+                "Endoscopia digestiva"
+            ],
+            "pacientes": [
+                "Adultos (Sólo en algunas direcciones)",
+                "Niños a partir de 12 años (Sólo en algunas direcciones)"
+            ],
+            "redes_sociales": []
+        },
+        "clinicas": [
+            {
+                "nombre clinica": "CAE Guaymas",
+                "direccion": "Calle 9 224,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=27.9257526,-110.9026947",
+                "telefonos": []
+            },
+            {
+                "nombre clinica": "Hospital San José de Guaymas",
+                "direccion": "Boulevard Tetakawi 4,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=27.9589825,-111.0383759",
+                "telefonos": []
+            },
+            {
+                "nombre clinica": "Consulta en línea",
+                "direccion": "None",
+                "mapa": "None",
+                "telefonos": []
+            },
+            {
+                "nombre clinica": "Endoscopias y colonoscopias",
+                "direccion": "Boulevard Tetakawi 4,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=27.9589825,-111.0383759",
+                "telefonos": []
+            }
+        ],
+        "servicios": [
+            {
+                "servicio": "Visita Gastroenterología",
+                "precio": "Desde $1,200"
+            },
+            {
+                "servicio": "Consulta en línea",
+                "precio": "$1,200"
+            },
+            {
+                "servicio": "Balón intragastrico para sobrepeso y obesidad",
+                "precio": "Desde $500"
+            },
+            {
+                "servicio": "Colonoscopia total",
+                "precio": "Desde $8,500"
+            },
+            {
+                "servicio": "Endoscopia digestiva superior",
+                "precio": "$7,000"
+            },
+            {
+                "servicio": "Panendo-colonoscopia",
+                "precio": "Desde $15,000"
+            },
+            {
+                "servicio": "Panendoscopia oral diagnóstica",
+                "precio": "Desde $7,000"
+            }
+        ],
+        "aseguradoras": [],
+        "opiniones": [
+            {
+                "nombre opinion": "Sandra Paola González",
+                "estrellas": "5",
+                "comentario": "El día hoy visité el consultorio del Dr. MariñezLa experiencia fue muy gratificante. El Dr, te explica con detalle y te da mucha tranquilidad. Sé nota su vasto conocimiento del tema.Ahora tomaré el tratamiento y les actualizaré esta opinión.",
+                "fecha": "8 de noviembre de 2025",
+                "lugar": "Hospital San José de Guaymas",
+                "procedimiento": "Visita Gastroenterología"
+            },
+            {
+                "nombre opinion": "Xochilt Alonso B",
+                "estrellas": "5",
+                "comentario": "El Dr. Maríñez fue muy profesional y amable durante mi consulta. Se tomó el tiempo de escucharme con atención, hacerme preguntas y revisar a detalle mi caso. Me hizo sentir en confianza y con la seguridad de estar en buenas manos. Agradezco mucho su dedicación y paciencia. Lo recomiendo ampliamente.",
+                "fecha": "23 de agosto de 2025",
+                "lugar": "Hospital San José de Guaymas",
+                "procedimiento": "None"
+            },
+            {
+                "nombre opinion": "Lokeshwaran",
+                "estrellas": "5",
+                "comentario": "Very sharp and quick to diagnose the issue. Spends proper time hearing us completely. Vivid explanation of the possible cause, medication and precautions.",
+                "fecha": "10 de julio de 2025",
+                "lugar": "Hospital San José de Guaymas",
+                "procedimiento": "None"
+            },
+            {
+                "nombre opinion": "Eduardo Gutierrez Escobedo",
+                "estrellas": "5",
+                "comentario": "Les comento que mi experincia fue muy gratificante, es un DR agradable, me reviso muy bien, me comento mi posible problema me receto y listo problema superado...lo recomiendo ampliamente, sin lugar a dudas paso a ser mi Dr. para estos amles SALUDOS BENDICIONES",
+                "fecha": "3 de junio de 2026",
+                "lugar": "Hospital San José de Guaymas",
+                "procedimiento": "Visita Gastroenterología"
+            },
+            {
+                "nombre opinion": "WD",
+                "estrellas": "5",
+                "comentario": "Excelente experiencia. El doctor fue sumamente profesional en todo momento, explicó cada detalle con claridad y se tomó el tiempo necesario para resolver todas mis dudas, lo cual me dio mucha confianza. Además, fue muy puntual y atento durante la consulta. Sin duda, lo recomiendo ampliamente.",
+                "fecha": "18 de marzo de 2026",
+                "lugar": "Hospital San José de Guaymas",
+                "procedimiento": "Visita Gastroenterología"
+            },
+            {
+                "nombre opinion": "Heyduran",
+                "estrellas": "5",
+                "comentario": "Muy buena revisión y voy mejorando en mi padecimiento adicional regresaré por unos estudios que me solicito. Demuestra profesionalismo.",
+                "fecha": "17 de marzo de 2026",
+                "lugar": "Hospital San José de Guaymas",
+                "procedimiento": "Visita Gastroenterología"
+            },
+            {
+                "nombre opinion": "Roberto Leyva",
+                "estrellas": "5",
+                "comentario": "El doctor fue muy puntual y amable en la cita. Me aclaró todas las dudas. Me gustó la visión que aborda para descartar cualquier problema. Me recomendó un estudio más profundo para descartar cualquier tema.",
+                "fecha": "16 de marzo de 2026",
+                "lugar": "Hospital San José de Guaymas",
+                "procedimiento": "Visita Gastroenterología"
+            },
+            {
+                "nombre opinion": "maricela",
+                "estrellas": "5",
+                "comentario": "Excelente médico, ampliamente recomendable, su trato profesional y humano te da una gran tranquilidad",
+                "fecha": "10 de marzo de 2026",
+                "lugar": "Endoscopias y colonoscopias",
+                "procedimiento": "Colonoscopia total"
+            },
+            {
+                "nombre opinion": "Ma Valdez",
+                "estrellas": "5",
+                "comentario": "El doctor fue súper puntual y mi revisión fue muy detallada y sus explicaciones igual",
+                "fecha": "10 de marzo de 2026",
+                "lugar": "Hospital San José de Guaymas",
+                "procedimiento": "Visita Gastroenterología"
+            },
+            {
+                "nombre opinion": "Arq Moreno",
+                "estrellas": "5",
+                "comentario": "Breve, Preciso y eficaz, sus diagnóstico se reflejó en los resultados de su tratamiento, mejore muy rápido",
+                "fecha": "4 de marzo de 2026",
+                "lugar": "Hospital San José de Guaymas",
+                "procedimiento": "Visita Gastroenterología"
+            }
+        ],
+        "scrap date": "2026-08-30 23:22:07"
+    },
+    {
+        "nombre_doctor": "Dr.Eduardo Alarcón Garza",
+        "especialidad": "Médico general",
+        "cedula": [
+            "9487936"
+        ],
+        "experiencia": {
+            "formacion": "None",
+            "sobre_mi": "None",
+            "enfermedades_tratadas": "None",
+            "idiomas": "None",
+            "enfoques": "None",
+            "pacientes": "None",
+            "redes_sociales": "None"
+        },
+        "clinicas": [
+            {
+                "nombre clinica": "Centro Médico Emmanuel",
+                "direccion": "San Carlos 353, ,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=27.9613609,-111.030632",
+                "telefonos": []
+            }
+        ],
+        "servicios": [
+            {
+                "servicio": "Primera visita Medicina General",
+                "precio": "None"
+            }
+        ],
+        "aseguradoras": [],
+        "opiniones": [],
+        "scrap date": "2026-08-30 23:22:17"
+    },
+    {
+        "nombre_doctor": "Lic.Blanca Villa",
+        "especialidad": "Terapeuta complementario",
+        "cedula": "None",
+        "experiencia": {
+            "formacion": [
+                "Certificación como Asesora en Psicología Integrativa por el Centro Universitario de Alternativas MedicasCertificación Internacional Coaching en Transformación Personal en AICTRAPCertificación Internacional como HEAL YOUR LIFE Teacher del LIBRO Tú puedes sanar tu vidaMediación en conflictos familiares y comunitarios por el Instituto de Mediacion de México S. C.Formación en BIIODESCODIFICACIÓN y TANATOLOGÍADiplomado en Constelaciones Familiares"
+            ],
+            "sobre_mi": "HOLA! Con gusto te ofreceremos una PRIMERA SESIÓN de forma GRATUITA sólo por el gusto que nos da tenerte por aquí y que tomes un momento para conocer lo que hemos convertido en nuestra MISION de vida, te hablo del Proyecto \"RECREANDO VIDAS\", un ACOMPAÑAMIENTO para MUJERES que DESEAN dejar de vivir las experiencias de una forma dolorosa y HACER CONSCIENTE su MARAVILLOSO PROCESO de TRANSFORMACIÓN PERSONAL recreando su realidad.Déjame platicarte además que yo soy parte de un maravilloso equipo con FACILITADORAS CERTIFICADAS en Mediación en Conflictos, Sexología, Tanatología, la METODOLOGÍA de Louise Hay que HA AYUDADO a MILES DE PERSONAS en el Mundo, Constelaciones Familiares, Programación Neurolingüística, Reiki y más para darte una EXPERIENCIA INTEGRAL en la que tu participación sea fundamental.Practicamos y enseñamos TÉCNICAS de relajación, VISUALIZACIÓN CREATIVA, pensamiento POSITIVO y EMPODERAMIENTO restándole fuerza a los miedos, culpas y CREENCIAS limitantes.Contamos con un equipo de PROFESIONALES y grupos entusiastas haciendo sinergia para apoyar en determinado momento cualquier inquietud que requiera ATENCIÓN ESPECIALIZADA.Brindamos HERRAMIENTAS y RECURSOS claves como ▪️Psicología Integrativa ▪️Coaching ▪️Movimientos sistémicos ▪️Constelaciones Familiares ▪️Programación Neurolingüística, la Mediación Familiar y muchos más para obtener los MEJORES RESULTADOS.TE SENTIRÁS CONTENIDA y GUIADA en cualquier proceso o situación que estés viviendo, y SENTIRÁS gradualmente los CAMBIOS que propician un ESTADO de BIENESTAR FÍSICO, MENTAL y EMOCIONAL.De forma presencial te ofrecemos CONSULTAS en SESIONES INDIVIDUALES O GRUPALES, TALLERES y RETIROS de algunas horas o MÁS DÍAS en un espacio armonizado para hacerte sentir SEGURA y CÓMODA, acompañada por la Coach guiándote en cada momento y, si te animas, puedes complementarlo con ratos de charlas, ocio y reflexión en un espacio diferente, en la Naturaleza, por ejemplo una Playa o un lindo lugar disfrutando un café con tu Coach...  por qué no?? LO MERECES. Disponte a pasar un TIEMPO EXTRAORDINARIO lejos de la Rutina y la Monotonía.Nuestros SERVICIOS están disponibles de forma Presencial en HERMOSILLO, SAN CARLOS, GUAYMAS o EN LÍNEA.TE SORPRENDERÁS al notar que la Dinámica de nuestras sesiones BENEFICIA a todos los que te rodean y tiene una INFLUENCIA POSITIVA en los miembros de nuestra FAMILIA o en nuestro ENTORNO aún cuando ellos no asistan porque los CAMBIOS se generan desde NOSOTROS mismos.REITERAMOS! La Atención puede ser INDIVIDUAL o GRUPAL, EN LÍNEA o TELEFÓNICA. En Consulta Presencial, Taller o Retiro.Somos una EXCELENTE OPCIÓN como un DESTINO de AUTOCONOCIMIENTO, RELAJACIÓN  y una mejor visión para la SOLUCIÓN DE CONFLICTOS.  Un espacio recreativo a tu alcance para RECREAR VIDAS!LAS INTENCIONES, SUEÑOS y DESEOS son la ENERGÍA que nos IMPULSA, SÓLO las ACCIONES manifiestan el RESULTADO. Que los tuyos sean TU MEJOR ESFUERZO.Nuestro lema es \"Cuando YO CAMBIO... el MUNDO alrededor de mí también CAMBIA\"...   La LUZ EN TÍ!",
+            "enfermedades_tratadas": [
+                "Depresión",
+                "Duelo",
+                "Baja autoestima",
+                "Estrés",
+                "Gestión de emociones"
+            ],
+            "lenguajes": "None",
+            "enfoques": "None",
+            "pacientes": [
+                "Adultos"
+            ],
+            "redes_sociales": []
+        },
+        "clinicas": [
+            {
+                "nombre clinica": "ReCreando Vidas. Coaching. Psicología Integrativa y Transformación Personal.",
+                "direccion": "Mar de Cortés,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=27.9710732,-111.0117188",
+                "telefonos": []
+            }
+        ],
+        "servicios": [
+            {
+                "servicio": "Consulta en línea",
+                "precio": "Desde $500"
+            },
+            {
+                "servicio": "Visitas sucesivas Medicina Complementaria y Alternativa",
+                "precio": "$250"
+            },
+            {
+                "servicio": "Coaching",
+                "precio": "Desde $500"
+            },
+            {
+                "servicio": "Constelaciones familiares",
+                "precio": "Desde $500"
+            },
+            {
+                "servicio": "Control de Estrés",
+                "precio": "$350"
+            },
+            {
+                "servicio": "Life coaching",
+                "precio": "$500"
+            },
+            {
+                "servicio": "Manejo de duelo",
+                "precio": "$500"
+            },
+            {
+                "servicio": "Psicología Holística",
+                "precio": "$500"
+            },
+            {
+                "servicio": "Talleres vivenciales",
+                "precio": "Desde $250"
+            },
+            {
+                "servicio": "Terapia de las emociones",
+                "precio": "$500"
+            },
+            {
+                "servicio": "Terapia de psicología positiva",
+                "precio": "$500"
+            },
+            {
+                "servicio": "Terapia individual",
+                "precio": "$500"
+            },
+            {
+                "servicio": "Terapia por Internet",
+                "precio": "$500"
+            },
+            {
+                "servicio": "Terapia Reiki",
+                "precio": "Desde $350"
+            }
+        ],
+        "aseguradoras": [],
+        "opiniones": [
+            {
+                "nombre opinion": "Paciente",
+                "estrellas": "5",
+                "comentario": "Recomendada, mi experiencia es muy buena, seriedad en lo que hace,amabilidad en el trato,puntual,honesta",
+                "fecha": "9 de septiembre de 2022",
+                "lugar": "ReCreando Vidas. Coaching. Psicología Integrativa y Transformación Personal.",
+                "procedimiento": "Coaching"
+            },
+            {
+                "nombre opinion": "Adriana Mendoza",
+                "estrellas": "5",
+                "comentario": "Me gustó mucho su sesión me hizo reflexionar sobre varios temas  te ayuda mucho a encontrar el camino deseado.",
+                "fecha": "11 de agosto de 2022",
+                "lugar": "ReCreando Vidas. Coaching. Psicología Integrativa y Transformación Personal.",
+                "procedimiento": "Coaching"
+            },
+            {
+                "nombre opinion": "Hilda",
+                "estrellas": "5",
+                "comentario": "Desde el primer momento en que contacté a Blanca tuvo una disposición increíble, su tono de voz me hizo sentir la confianza para expresarme abiertamente, es atenta, dedicada, profesional,  explica de manera clara, directa y amable. En pocas sesiones ya he experimentado cambios positivos y el trabajo de constelaciones es genial. Totalmente recomendable!",
+                "fecha": "8 de abril de 2022",
+                "lugar": "Consultas en línea",
+                "procedimiento": "Consulta en línea"
+            },
+            {
+                "nombre opinion": "Nancy",
+                "estrellas": "5",
+                "comentario": "Una Terapeuta muy profesional, gracias a ella conocí la terapia de constelaciones familiares, fue de gran ayuda para mejorar las relaciones con mi familia",
+                "fecha": "7 de diciembre de 2021",
+                "lugar": "ReCreando Vidas. Coaching. Psicología Integrativa y Transformación Personal.",
+                "procedimiento": "Constelaciones familiares"
+            },
+            {
+                "nombre opinion": "Leonor Figueroa Nieto",
+                "estrellas": "5",
+                "comentario": "Excelente terapeuta muy acertada en su tratamiento, empática, sensible, mucha experiencia...Garantía en la  salud emocional!",
+                "fecha": "6 de diciembre de 2021",
+                "lugar": "ReCreando Vidas. Coaching. Psicología Integrativa y Transformación Personal.",
+                "procedimiento": "Constelaciones familiares"
+            },
+            {
+                "nombre opinion": "Ana Gabriela",
+                "estrellas": "5",
+                "comentario": "Talleres totalmente recomendables  se realiza un trabajo interior donde trabajamos todas las emociones y de acuerdo a nuestra disposición podemos lograr mejorar y entender el porque de nuestros comportamientos y de alguna manera se busca mejorar y crecer como ser humano.",
+                "fecha": "5 de diciembre de 2021",
+                "lugar": "otro lugar",
+                "procedimiento": "Otro"
+            },
+            {
+                "nombre opinion": "Faby",
+                "estrellas": "5",
+                "comentario": "Excelente terapeuta y ser humano! Gracias por tu calidad y calidez de persona! Constelaciones familiares fue una experiencia maravillosa y sanadora.",
+                "fecha": "5 de diciembre de 2021",
+                "lugar": "ReCreando Vidas. Coaching. Psicología Integrativa y Transformación Personal.",
+                "procedimiento": "Constelaciones familiares"
+            },
+            {
+                "nombre opinion": "Lorena Aguilar",
+                "estrellas": "5",
+                "comentario": "Excelente servicio. Una mujer muy preparada y llena de valores con una energía maravillosa. Saludos desde el estado de México, ¡espero y vuelvas pronto!",
+                "fecha": "5 de diciembre de 2021",
+                "lugar": "ReCreando Vidas. Coaching. Psicología Integrativa y Transformación Personal.",
+                "procedimiento": "Constelaciones familiares"
+            },
+            {
+                "nombre opinion": "Nallely",
+                "estrellas": "5",
+                "comentario": "Excelentes consultas, y se dedica al 100% a cada persona. Te da nuevas oportunidades de ver las cosas",
+                "fecha": "5 de diciembre de 2021",
+                "lugar": "ReCreando Vidas. Coaching. Psicología Integrativa y Transformación Personal.",
+                "procedimiento": "None"
+            }
+        ],
+        "scrap date": "2026-08-30 23:22:28"
+    },
+    {
+        "nombre_doctor": "Mtra.Laura Maribel Pacheco Poot",
+        "especialidad": "Psicólogo",
+        "cedula": [
+            "5869280",
+            "13138066",
+            "15370071"
+        ],
+        "experiencia": {
+            "formacion": "None",
+            "sobre_mi": "Profesionista con experiencia en psicoterapia bajo el enfoque cognitivo-conductual. Experiencia teórica y práctica en evaluación psicológica forense, laboral y clínica.  Experiencia en entrevista con adultos, adolescentes y niños. Conocimientos de pruebas psicológicas, psicopatología, etapas de desarrollo, violencia familiar, pareja, perspectiva de género, abuso sexual. Así mismo, tengo conocimientos de derecho penal, familiar, derechos humanos y dictamen pericial.",
+            "enfermedades_tratadas": [
+                "Ansiedad",
+                "Depresión",
+                "Duelo",
+                "Estrés",
+                "Codependencia",
+                "Trastorno de conducta",
+                "Estrés postraumático",
+                "Trastorno obsesivo compulsivo (TOC)",
+                "Trastorno de la conducta alimentaria"
+            ],
+            "lenguajes": "None",
+            "enfoques": "None",
+            "pacientes": [
+                "Adultos"
+            ],
+            "redes_sociales": []
+        },
+        "clinicas": [
+            {
+                "nombre clinica": "Centro Médico Integral Saluda",
+                "direccion": "C. 50 Francisco de Montejo,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=21.0246449,-89.649147",
+                "telefonos": []
+            },
+            {
+                "nombre clinica": "Conciencia Espacios Terapéuticos",
+                "direccion": "None",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=27.9617882,-111.0371017",
+                "telefonos": []
+            }
+        ],
+        "servicios": [
+            {
+                "servicio": "Consulta en línea",
+                "precio": "Desde $600"
+            },
+            {
+                "servicio": "Primera visita Psicología",
+                "precio": "$650"
+            },
+            {
+                "servicio": "Visita Psicología",
+                "precio": "Desde $600"
+            },
+            {
+                "servicio": "Visitas sucesivas Psicología",
+                "precio": "$650"
+            },
+            {
+                "servicio": "Consulta de primera vez",
+                "precio": "$650"
+            },
+            {
+                "servicio": "Consulta psicológica online",
+                "precio": "$600 - $650"
+            },
+            {
+                "servicio": "Intervención en crisis",
+                "precio": "$600 - $650"
+            },
+            {
+                "servicio": "Manejo de duelo",
+                "precio": "$600"
+            },
+            {
+                "servicio": "Orientación para padres",
+                "precio": "$600"
+            },
+            {
+                "servicio": "Psicoterapia",
+                "precio": "$650"
+            },
+            {
+                "servicio": "Terapia cognitivo-conductual (TCC)",
+                "precio": "$600"
+            },
+            {
+                "servicio": "Terapia individual",
+                "precio": "$600 - $650"
+            },
+            {
+                "servicio": "Terapia para adultos",
+                "precio": "$600"
+            }
+        ],
+        "aseguradoras": [],
+        "opiniones": [],
+        "scrap date": "2026-08-30 23:22:38"
+    },
+    {
+        "nombre_doctor": "Dr.Salvador Mancera Rodriguez",
+        "especialidad": "Pediatra",
+        "cedula": [
+            "3996871",
+            "5554007",
+            "7130318"
+        ],
+        "experiencia": {
+            "formacion": [
+                "neonatologia, UNAM, 2010"
+            ],
+            "sobre_mi": "None",
+            "enfermedades_tratadas": [
+                "Sordera parcial en bebés"
+            ],
+            "lenguajes": "None",
+            "enfoques": [
+                "Neonatología"
+            ],
+            "pacientes": [],
+            "redes_sociales": []
+        },
+        "clinicas": [
+            {
+                "nombre clinica": "Consultorio privado",
+                "direccion": "carretera internacional 2319 fracc. san carlos,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=27.9613609,-111.030632",
+                "telefonos": []
+            }
+        ],
+        "servicios": [
+            {
+                "servicio": "Primera visita Pediatría",
+                "precio": "Desde $500"
+            },
+            {
+                "servicio": "Tamiz cardíaco",
+                "precio": "Desde $800"
+            },
+            {
+                "servicio": "Tamiz metabólico",
+                "precio": "Desde $700"
+            },
+            {
+                "servicio": "Tamiz neonatal",
+                "precio": "None"
+            },
+            {
+                "servicio": "Tamiz neonatal ampliado",
+                "precio": "Desde $2,000"
+            }
+        ],
+        "aseguradoras": [],
+        "opiniones": [],
+        "scrap date": "2026-08-30 23:22:49"
+    },
+    {
+        "nombre_doctor": "Dr.Juan Carlos Cota Rivera",
+        "especialidad": "Médico general",
+        "cedula": [
+            "12083115"
+        ],
+        "experiencia": {
+            "formacion": [
+                "CENTRO DE ESTUDIOS SUPERIORES XOCHICALCOUNIVERSIDAD ANAHUACUNIVERSIDAD UAHMPRAXUS MEDCUMMMES SURInstitución Educativa Líder en Formación JurídicaCOLEGIO DE MEDICOS ESTETICOS DE SONORA"
+            ],
+            "sobre_mi": "Soy el Doctor Juan Carlos Cota Rivera, padre de familia y médico de profesión, como profesional de la medicina estética y regenerativa, mi trayectoria se fundamenta en una sólida formación académica y especializaciones en áreas clave. Poseo un posgrado en Derecho Médico para gestionar riesgos y ética profesional, y me especialicé en Medicina Estética y Regenerativa, así como en Patologías Cardiacas, demostrando un enfoque integral hacia la salud. Como CEO de Clínica Epiderma, lidero centros de referencia en tratamientos estéticos avanzados. Además, como director de Doctorealo, garantizo el cumplimiento legal en salud. Mis habilidades incluyen aplicación de rellenos faciales y certificaciones en diversas técnicas estéticas, priorizando resultados seguros y naturales.",
+            "enfermedades_tratadas": "None",
+            "lenguajes": "None",
+            "enfoques": "None",
+            "pacientes": [
+                "Adultos (Sólo en algunas direcciones)"
+            ],
+            "redes_sociales": []
+        },
+        "clinicas": [
+            {
+                "nombre clinica": "Epiderma | Cd. Obregón",
+                "direccion": "Calle Sinaloa 737,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=27.5086002,-109.9319382",
+                "telefonos": []
+            },
+            {
+                "nombre clinica": "Epiderma | San Carlos",
+                "direccion": "Camino de los Yaquis,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=27.9654446,-111.0443649",
+                "telefonos": []
+            },
+            {
+                "nombre clinica": "Dr. Juan Carlos Cota Rivera",
+                "direccion": "Veracruz #110 entre Guerrero e Hidalgo colonia Centro,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=19.1737728,-96.1342239",
+                "telefonos": []
+            }
+        ],
+        "servicios": [
+            {
+                "servicio": "Primera visita Medicina General",
+                "precio": "Desde $25"
+            },
+            {
+                "servicio": "Aplicación Botox (Mínimo 20 unidades)",
+                "precio": "Desde $1,900"
+            },
+            {
+                "servicio": "Aplicación de Botox",
+                "precio": "Desde $3,400"
+            },
+            {
+                "servicio": "Marcaje mandibular con ácido hialurónico",
+                "precio": "Desde $9,900"
+            },
+            {
+                "servicio": "Masaje relajante",
+                "precio": "Desde $999"
+            }
+        ],
+        "aseguradoras": [],
+        "opiniones": [],
+        "scrap date": "2026-08-30 23:23:00"
+    },
+    {
+        "nombre_doctor": "Dr.Adán Pérez López",
+        "especialidad": "Cirujano plástico",
+        "cedula": [
+            "09717950",
+            "4570057"
+        ],
+        "experiencia": {
+            "formacion": "None",
+            "sobre_mi": "",
+            "enfermedades_tratadas": "None",
+            "lenguajes": "None",
+            "enfoques": "None",
+            "pacientes": [],
+            "redes_sociales": []
+        },
+        "clinicas": [
+            {
+                "nombre clinica": "Hospital San José de Guaymas",
+                "direccion": "Blvd. Tetakawi Lote Kilometro. 4-5,  San Carlos, Son.,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=27.9617882,-111.0371017",
+                "telefonos": []
+            }
+        ],
+        "servicios": [
+            {
+                "servicio": "Primera visita Cirugía Plástica",
+                "precio": "None"
+            }
+        ],
+        "aseguradoras": [],
+        "opiniones": [],
+        "scrap date": "2026-08-30 23:23:05"
+    },
+    {
+        "nombre_doctor": "Dra.Stephanie Carolina Plancarte Cervantes",
+        "especialidad": "Reumatólogo",
+        "cedula": [
+            "10922394",
+            "12555146"
+        ],
+        "experiencia": {
+            "formacion": "None",
+            "sobre_mi": "None",
+            "enfermedades_tratadas": [
+                "Artritis psoriásica",
+                "Artritis reactiva",
+                "Artritis reumatoide",
+                "Enfermedad pulmonar asociada a artritis reumatoidea",
+                "Enfermedad vascular del colágeno",
+                "Espondilitis anquilosante",
+                "Lupus",
+                "Osteoartritis",
+                "Osteoporosis",
+                "Síndrome de Sjogren",
+                "Vasculitis necrosante"
+            ],
+            "lenguajes": "None",
+            "enfoques": "None",
+            "pacientes": [],
+            "redes_sociales": []
+        },
+        "clinicas": [
+            {
+                "nombre clinica": "hospital San José de Guaymas",
+                "direccion": "Boulevard Manlio Fabio Beltrones 100,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=27.9635448,-111.0227356",
+                "telefonos": []
+            }
+        ],
+        "servicios": [
+            {
+                "servicio": "Visita Reumatología",
+                "precio": "None"
+            }
+        ],
+        "aseguradoras": [],
+        "opiniones": [],
+        "scrap date": "2026-08-30 23:23:16"
+    },
+    {
+        "nombre_doctor": "Lic.María del Carmen Pérez Medina",
+        "especialidad": "Psicólogo",
+        "cedula": [
+            "6163366"
+        ],
+        "experiencia": {
+            "formacion": "None",
+            "sobre_mi": "None",
+            "enfermedades_tratadas": "None",
+            "idiomas": "None",
+            "enfoques": "None",
+            "pacientes": "None",
+            "redes_sociales": "None"
+        },
+        "clinicas": [
+            {
+                "nombre clinica": "Terapia psicologica cognitivo conductual",
+                "direccion": "Ave. D #302 Ranchitos Campestre ,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=27.9741993,-111.0299377",
+                "telefonos": []
+            }
+        ],
+        "servicios": [
+            {
+                "servicio": "Consulta en línea",
+                "precio": "$850"
+            },
+            {
+                "servicio": "Visita Psicología",
+                "precio": "$850"
+            },
+            {
+                "servicio": "Consulta psicológica online",
+                "precio": "$850"
+            },
+            {
+                "servicio": "Intervención en crisis",
+                "precio": "$950"
+            },
+            {
+                "servicio": "Manejo de duelo",
+                "precio": "$850"
+            },
+            {
+                "servicio": "Orientación para padres",
+                "precio": "$800"
+            },
+            {
+                "servicio": "Psicoterapia",
+                "precio": "$850"
+            },
+            {
+                "servicio": "Psicoterapia familiar",
+                "precio": "$950"
+            },
+            {
+                "servicio": "Terapia cognitivo-conductual (TCC)",
+                "precio": "$950"
+            },
+            {
+                "servicio": "Terapia de pareja",
+                "precio": "$1,100"
+            },
+            {
+                "servicio": "Terapia familiar",
+                "precio": "$1,100"
+            },
+            {
+                "servicio": "Terapia individual",
+                "precio": "$850"
+            },
+            {
+                "servicio": "Terapia para adultos",
+                "precio": "$850"
+            }
+        ],
+        "aseguradoras": [],
+        "opiniones": [],
+        "scrap date": "2026-08-30 23:23:26"
+    },
+    {
+        "nombre_doctor": "Lic.Melanie Gaytan",
+        "especialidad": "Nutricionista",
+        "cedula": "None",
+        "experiencia": {
+            "formacion": "None",
+            "sobre_mi": "None",
+            "enfermedades_tratadas": "None",
+            "lenguajes": "None",
+            "enfoques": [
+                "Nutrición clínica"
+            ],
+            "pacientes": [],
+            "redes_sociales": []
+        },
+        "clinicas": [
+            {
+                "nombre clinica": "Centro Médico Emmanuel",
+                "direccion": "San Carlos 353, ,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=27.9613609,-111.030632",
+                "telefonos": []
+            }
+        ],
+        "servicios": [],
+        "aseguradoras": [],
+        "opiniones": [],
+        "scrap date": "2026-08-30 23:23:37"
+    },
+    {
+        "nombre_doctor": "Jose De  Jesus Peña Martinez",
+        "especialidad": "Ginecólogo",
+        "cedula": "None",
+        "experiencia": {
+            "formacion": "None",
+            "sobre_mi": "None",
+            "enfermedades_tratadas": "None",
+            "idiomas": "None",
+            "enfoques": "None",
+            "pacientes": "None",
+            "redes_sociales": "None"
+        },
+        "clinicas": [
+            {
+                "nombre clinica": "",
+                "direccion": "La Gavia Sn, Col. Ej La Gavia, ,",
+                "mapa": "https://www.google.com/maps/search/?api=1&query=27.9613609,-111.030632",
+                "telefonos": []
+            }
+        ],
+        "servicios": [],
+        "aseguradoras": [],
+        "opiniones": [],
+        "scrap date": "2026-08-30 23:23:48"
+    }
+]
