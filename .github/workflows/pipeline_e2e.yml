@@ -66,12 +66,12 @@ jobs:
       - name: Descargar código del repositorio
         uses: actions/checkout@v4
         with:
-          ref: translator
+          ref: orquestacion-ci-cd
 
-      - name: Configurar Python 3.12
+      - name: Configurar Python 3.10
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.10'
 
       - name: Instalar dependencias del traductor
         run: |
