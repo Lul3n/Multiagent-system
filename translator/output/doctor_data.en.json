@@ -1,0 +1,2028 @@
+[
+    {
+        "doctor_name": "Dr.Jorge Landázuri",
+        "specialty": "Nephrologist",
+        "license": [
+            "10016886",
+            "12691950"
+        ],
+        "experience": {
+            "education": [
+                "Universidad Autónoma de Guadalajara"
+            ],
+            "about_me": "",
+            "treated_diseases": [
+                "Glomerulonephritis",
+                "Diabetic nephropathy",
+                "Nephrotic syndrome",
+                "Kidney failure",
+                "Lupus nephritis",
+                "Chronic kidney failure",
+                "Kidney disease",
+                "Rejection of the transplant",
+                "End-stage renal disease",
+                "Autosomal dominant polycystic kidney disease",
+                "Atherosclerotic kidney disease"
+            ],
+            "languages": [
+                "Spanish"
+            ],
+            "approaches": [
+                "Glomerular nephropathies",
+                "Hemodialysis",
+                "Dpca",
+                "Kidney transplant"
+            ],
+            "patients": [
+                "Adults"
+            ],
+            "social_media": []
+        },
+        "clinics": [
+            {
+                "clinic_name": "Hospital San Jose de Guaymas",
+                "address": "Boulevard Tetakawi 4-5,",
+                "map": "https://www.google.com/maps/search/?api=1&query=27.9589825,-111.0383759",
+                "phone_numbers": [
+                    "33 3956 8545",
+                    "622 176 1100"
+                ]
+            }
+        ],
+        "services": [
+            {
+                "service": "First Nephrology visit",
+                "price": "$1,000"
+            },
+            {
+                "service": "Catheter placement for hemodialysis",
+                "price": "Free service"
+            },
+            {
+                "service": "Pre-surgical assessment",
+                "price": "Free service"
+            },
+            {
+                "service": "Renal ultrasound",
+                "price": "Free service"
+            },
+            {
+                "service": "Treatment with erythropoietin",
+                "price": "Free service"
+            },
+            {
+                "service": "Kidney transplant",
+                "price": "Free service"
+            },
+            {
+                "service": "Continuous slow renal replacement therapy (CSRR)",
+                "price": "Free service"
+            },
+            {
+                "service": "Renal lithiasis profile",
+                "price": "Free service"
+            },
+            {
+                "service": "Arteriovenous fistulas for hemodialysis",
+                "price": "Free service"
+            },
+            {
+                "service": "Hemodialysis",
+                "price": "Free service"
+            },
+            {
+                "service": "Glomerular filtration",
+                "price": "Free service"
+            },
+            {
+                "service": "Automated peritoneal dialysis",
+                "price": "Free service"
+            },
+            {
+                "service": "Peritoneal dialysis",
+                "price": "Free service"
+            },
+            {
+                "service": "Dialysis",
+                "price": "Free service"
+            },
+            {
+                "service": "Placement of permanent peritoneal catheter",
+                "price": "Free service"
+            },
+            {
+                "service": "Percutaneous kidney biopsy",
+                "price": "From $0"
+            },
+            {
+                "service": "Nephrology Home Visit",
+                "price": "Free service"
+            }
+        ],
+        "insurance_companies": [],
+        "reviews": [
+            {
+                "review_name": "Carlos Dávila",
+                "stars": "5",
+                "comment": "Excellent patient care, very punctual, gave us a lot of confidence",
+                "date": "August 13, 2026",
+                "place": "Hospital San Jose de Guaymas",
+                "procedure": "First Nephrology visit"
+            },
+            {
+                "review_name": "José Sandoval",
+                "stars": "5",
+                "comment": "Thank you very much for your time and for your valuable opinion. We greatly appreciate the clarity and trust you conveyed to us. May God always bless you for your great vocation.",
+                "date": "August 7, 2026",
+                "place": "Hospital San Jose de Guaymas",
+                "procedure": "First Nephrology visit"
+            },
+            {
+                "review_name": "Ma de los angeles",
+                "stars": "5",
+                "comment": "Excellent service. They attended to me kindly, with a lot of emphasis on my labs and medications.",
+                "date": "August 4, 2026",
+                "place": "Hospital San Jose de Guaymas",
+                "procedure": "First Nephrology visit"
+            },
+            {
+                "review_name": "GGDG",
+                "stars": "5",
+                "comment": "Professionalism, optimism, and empathy with the patient",
+                "date": "July 31, 2026",
+                "place": "Hospital San Jose de Guaymas",
+                "procedure": "First Nephrology visit"
+            },
+            {
+                "review_name": "Gerardo Armenta gazcon",
+                "stars": "5",
+                "comment": "VERY GOOD ATTENTION AND A LOT OF KNOWLEDGE IN HIS/HER PROFESSION",
+                "date": "July 21, 2026",
+                "place": "Hospital San Jose de Guaymas",
+                "procedure": "First Nephrology visit"
+            },
+            {
+                "review_name": "LG",
+                "stars": "5",
+                "comment": "Excellent service and professionalism that make it highly recommendable",
+                "date": "June 7, 2026",
+                "place": "Hospital San Jose de Guaymas",
+                "procedure": "First Nephrology visit"
+            },
+            {
+                "review_name": "Andrea Garay",
+                "stars": "5",
+                "comment": "Excellent doctor, very humane, very patient with elderly people, and very explicit in every detail of the consultation.",
+                "date": "May 4, 2026",
+                "place": "Hospital San Jose de Guaymas",
+                "procedure": "First Nephrology visit"
+            },
+            {
+                "review_name": "Rossy Arenas",
+                "stars": "5",
+                "comment": "Excellent attention, very clear explanations, highly recommended",
+                "date": "April 30, 2026",
+                "place": "Hospital San Jose de Guaymas",
+                "procedure": "First Nephrology visit"
+            },
+            {
+                "review_name": "Ana Luisa Albañez Maldonado",
+                "stars": "5",
+                "comment": "Excellent attention. Very detailed explanations. Excellent person",
+                "date": "April 28, 2026",
+                "place": "Hospital San Jose de Guaymas",
+                "procedure": "First Nephrology visit"
+            },
+            {
+                "review_name": "JR Ochoa",
+                "stars": "5",
+                "comment": "Very good service, patience with the elderly, detailed information",
+                "date": "April 14, 2026",
+                "place": "Hospital San Jose de Guaymas",
+                "procedure": "First Nephrology visit"
+            }
+        ],
+        "scrape_date": "2026-08-30 23:21:50"
+    },
+    {
+        "doctor_name": "Dr.José Heliodoro González Zepeda",
+        "specialty": "Gynecologist",
+        "license": [
+            "7440101",
+            "4058420",
+            "6926876"
+        ],
+        "experience": {
+            "education": [
+                "GINECOLOGIA ONCOLOGICA, UNAM, 2012GINECOLOGIA Y OBSTETRICIA, U DE G, 2009"
+            ],
+            "about_me": "Hola! Soy el Dr. José, especialista en Ginecologia Oncologica, por la UNAM,.El bienestar de mi paciente es mi prioridad, por ello para mi es importante acompañar a mis patients con un trato amable y respetuoso.Brindaré mi apoyo a cada paciente desde el diagnóstico, pasando por todo el proceso de tratamiento hasta que mejore y se recupere.Puedes sentir la tranquilidad de que tu salud estará en manos expertas. ¡Será un gusto atenderte!",
+            "treated_diseases": [
+                "Vulvar cancer",
+                "Gestational trophoblastic neoplasia",
+                "Cervical dysplasia",
+                "Endometrial cancer",
+                "Vaginal cancer",
+                "Cervical cancer",
+                "Ovarian cancer",
+                "Cervical intraepithelial neoplasia",
+                "Breast cancer",
+                "Fibrocystic breast disease",
+                "Fibrocystic mastopathy",
+                "Uterine cancer"
+            ],
+            "languages": [
+                "Spanish",
+                "English",
+                "Portuguese"
+            ],
+            "approaches": [
+                "Gynecologic oncology",
+                "Breast pathology",
+                "Colposcopy",
+                "Laparoscopy"
+            ],
+            "patients": [
+                "Adults (Only in some directions)"
+            ],
+            "social_media": [
+                "//www.facebook.com/Dr-Jose-Heliodoro-Gonzalez-Zepeda-101712162301207/",
+                "//www.instagram.com/joseheliodorogonzalezzepeda/www.instagram.com/joseheliodorogonzalezzepeda/"
+            ]
+        },
+        "clinics": [
+            {
+                "clinic_name": "Hospital San José de Hermosillo",
+                "address": "Blvd. Morelos #340 Colonia Bachoco,",
+                "map": "https://www.google.com/maps/search/?api=1&query=29.1206875,-110.9520264",
+                "phone_numbers": [
+                    "662 109 0500",
+                    "662 109 0500"
+                ]
+            },
+            {
+                "clinic_name": "HOSPITAL SAN JOSE DE GUAYMAS",
+                "address": "Blvd. Tetakawi,",
+                "map": "https://www.google.com/maps/search/?api=1&query=27.960783,-111.0323639",
+                "phone_numbers": [
+                    "662 492 0736",
+                    "Sin esperas"
+                ]
+            },
+            {
+                "clinic_name": "Clínica Embryogen",
+                "address": "Calle Lazaro Mercado #22 ,",
+                "map": "https://www.google.com/maps/search/?api=1&query=29.0967197,-111.0162888",
+                "phone_numbers": []
+            }
+        ],
+        "services": [
+            {
+                "service": "Successive visits Gynecology and Obstetrics",
+                "price": "None"
+            },
+            {
+                "service": "First visit Gynecology and Obstetrics",
+                "price": "From $1,000"
+            },
+            {
+                "service": "Colposcopy",
+                "price": "None"
+            },
+            {
+                "service": "First-time consultation",
+                "price": "From $1,000"
+            }
+        ],
+        "insurance_companies": [
+            "GNP Seguros",
+            "AXA Seguros",
+            "MAPFRE",
+            "Seguros Atlas",
+            "MetLife México",
+            "Zurich",
+            "Bupa México",
+            "Allianz",
+            "Seguros Inbursa",
+            "Metropolitana",
+            "Seguros Monterrey",
+            "Plan Seguro",
+            "Latino Seguros",
+            "Seguros Banorte",
+            "Pan-American"
+        ],
+        "reviews": [
+            {
+                "review_name": "Angélica",
+                "stars": "5",
+                "comment": "My visit was excellent, he reviewed all the studies, evaluated me, listened to me attentively, answered all my questions, is very kind, a great doctor, I highly recommend him. I feel very satisfied with the consultation and happy with the result, I am in good health.",
+                "date": "October 29, 2024",
+                "place": "Hospital San José de Hermosillo",
+                "procedure": "Colposcopy"
+            },
+            {
+                "review_name": "Maciel",
+                "stars": "5",
+                "comment": "I really liked the doctor's treatment and especially that he explains everything to you and asks if you have any questions. Besides, you can see that he is an expert when performing the tests.",
+                "date": "March 26, 2024",
+                "place": "Hospital San José de Hermosillo",
+                "procedure": "First visit Gynecology and Obstetrics"
+            },
+            {
+                "review_name": "JLSA",
+                "stars": "5",
+                "comment": "The doctor is honest, transparent, and very professional; he takes the time to explain things to you until they are clear, which gives me a lot of peace of mind.",
+                "date": "January 30, 2024",
+                "place": "Hospital San José de Hermosillo",
+                "procedure": "Successive visits Gynecology and Obstetrics"
+            },
+            {
+                "review_name": "KZMM",
+                "stars": "5",
+                "comment": "Excellent treatment and my diagnosis was explained very well.",
+                "date": "August 26, 2026",
+                "place": "Hospital San José de Hermosillo",
+                "procedure": "Successive visits Gynecology and Obstetrics"
+            },
+            {
+                "review_name": "Teresita de Jesús badilla",
+                "stars": "5",
+                "comment": "Very good, excellent service, very good doctor explains everything in detail",
+                "date": "August 26, 2026",
+                "place": "Hospital San José de Hermosillo",
+                "procedure": "Successive visits Gynecology and Obstetrics"
+            },
+            {
+                "review_name": "GFO",
+                "stars": "5",
+                "comment": "Excellent attention and very detailed and patient explanations. Soon he will operate on my mother. She is in his hands.",
+                "date": "August 25, 2026",
+                "place": "Hospital San José de Hermosillo",
+                "procedure": "Successive visits Gynecology and Obstetrics"
+            },
+            {
+                "review_name": "Ruth",
+                "stars": "5",
+                "comment": "Excellent service and very detailed explanation. Very good oncologist.",
+                "date": "August 25, 2026",
+                "place": "Hospital San José de Hermosillo",
+                "procedure": "Other"
+            },
+            {
+                "review_name": "Keila Yared Ramírez Camberos",
+                "stars": "5",
+                "comment": "Very attentive, very professional, I felt calm with their explanation",
+                "date": "August 24, 2026",
+                "place": "Hospital San José de Hermosillo",
+                "procedure": "First visit Gynecology and Obstetrics"
+            },
+            {
+                "review_name": "S.R.L",
+                "stars": "5",
+                "comment": "Excellent doctor, with a super clear explanation of my condition (endometriosis), he provided me with information that no doctor had explained to me. He makes you feel comfortable, safe, and accompanied throughout the process, offering alternatives for the most recommended treatment.",
+                "date": "August 21, 2026",
+                "place": "HOSPITAL SAN JOSE DE GUAYMAS",
+                "procedure": "First visit Gynecology and Obstetrics"
+            },
+            {
+                "review_name": "Brenda Aracely Urias",
+                "stars": "5",
+                "comment": "Very kind and attentive, I felt very comfortable and calm.",
+                "date": "August 19, 2026",
+                "place": "Hospital San José de Hermosillo",
+                "procedure": "First visit Gynecology and Obstetrics"
+            }
+        ],
+        "scrape_date": "2026-08-30 23:22:02"
+    },
+    {
+        "doctor_name": "Siria Maria Carvajal Lohr",
+        "specialty": "Hematologist",
+        "license": [
+            "08707283",
+            "10993684"
+        ],
+        "experience": {
+            "education": [
+                "Hematología, Unidad Médica de Alta Especialidad CMN La Raza / UNAMAprobada por el Consejo Mexicano de Hematología AC-Master Universitario Medicina Transfusional y Terapias Celulares Avanzadas. Universidad Autónoma  Barcelona."
+            ],
+            "about_me": "--Hematología:  Hospital de Especialidades Centro Médico Nacional La Raza. Ciudad de México /02/2017).-Aprobada por el Consejo Mexicano de Hematología AC (10/03/2017)-Master Universitario Medicina Transfusional y Terapias Celulares Avanzadas. Escola Dr Robert/ Universidad Autónoma  Barcelona.2018- 2020- Hematológos en hermosilloCURSOS/ACTIVIDADES•\t“XXVI Curso Regional del Colegio de Medicina Interna del Noroeste A.C.” Monterey, NL. 2013•\t“Curso-Taller Intermedio Avanzado de Ventilación Mecánica.” Monterrey, NL. 2014.•\t“10º Curso de Actualización en hematología diagnóstica y terapéutica para Residentes de Hematología” 17 y 18 Febrero 2017. Cd. De México.•\t“Hematology Meet the Expert Meeting 2017”. Agosto 2017. Cd De Mexico.•\t“Bleeding Disorders Interactive Summit”. Mérida, Yucatán. Marzo 2018.•\t“LIX Congreso Nacional de Hematología”. Nuevo Vallarta. Abril 2018.•\t“Interpretación en la Biometría Hemática”. Conferencista. Hermosillo, Son. Mayo 2018.•\t“Enfoque”. Querétraro. Julio 2018.•\t“Hemoforum”. Cancún, Q.Roo. Octubre 2018.•\tProfesor Ayudante en la Especialidad de Medicina Interna. Universidad Autónoma de Sinaloa. 1/03/2017- a la date•\t“Closing the gaps in haemophilia treatment” Cancún, México. Noviembre 2018.•\t“Actualidades en el Tratamiento del Paciente con Hemofilia”. Oxtepec, Morelos. Noviembre 2018.•\tLX Congreso Nacional de Hematologia. Abril 2019, Chiahuahua, México..      Secretario del Colegio de Hematología del Noroeste",
+            "treated_diseases": [
+                "Hodgkin's lymphoma",
+                "Essential thrombocytosis",
+                "Thrombocytopenia",
+                "Chronic myeloid leukemia (CML)",
+                "Leukemia",
+                "LLC",
+                "Coagulopathy",
+                "Non-Hodgkin lymphoma",
+                "Primary polycythemia",
+                "Anemia",
+                "Multiple myeloma",
+                "Neutropenia",
+                "Immune thrombocytopenic purpura",
+                "Thrombotic thrombocytopenic purpura",
+                "Idiopathic thrombocytopenic purpura (ITP)",
+                "Hemolytic anemia",
+                "Iron-deficiency anemia",
+                "Idiopathic autoimmune hemolytic anemia",
+                "Hypercoagulable states",
+                "Low or high platelets",
+                "Bleeding problems",
+                "Chronic lymphocytic leukemia",
+                "Lymphoma",
+                "CHEMOTHERAPY"
+            ],
+            "languages": [
+                "English",
+                "Spanish",
+                "French"
+            ],
+            "approaches": [
+                "Bone marrow transplant",
+                "Transfusion and blood bank",
+                "Thrombosis and hemostasis",
+                "Immuno-oncology"
+            ],
+            "patients": [
+                "Adults"
+            ],
+            "social_media": [
+                "//www.facebook.com/HematologoSiria",
+                "//www.instagram.com/drasiria"
+            ]
+        },
+        "clinics": [
+            {
+                "clinic_name": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste/ Al interior del Edificio que dice. Laboratorio de Patologia ) 83000 Hermosillo",
+                "address": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste),",
+                "map": "https://www.google.com/maps/search/?api=1&query=29.0811501,-110.9507523",
+                "phone_numbers": [
+                    "662 344 3972",
+                    "662 358 2217"
+                ]
+            },
+            {
+                "clinic_name": "Oncología San  José (Hospital San José/ Acceso por el tercer nivel del estacionamiento del hospital)",
+                "address": "Benito Juarez 463,",
+                "map": "https://www.google.com/maps/search/?api=1&query=29.1212082,-110.9528503",
+                "phone_numbers": [
+                    "662 689 3292",
+                    "662 344 3972"
+                ]
+            },
+            {
+                "clinic_name": "HOSPITAL SAN JOSE SAN CARLOS NUEVO GUAYMAS",
+                "address": "BLVD TETAKAWI,",
+                "map": "https://www.google.com/maps/search/?api=1&query=27.960783,-111.0323639",
+                "phone_numbers": [
+                    "622 689 0793",
+                    "662 689 3292"
+                ]
+            }
+        ],
+        "services": [
+            {
+                "service": "First Hematology visit",
+                "price": "From $1,000"
+            },
+            {
+                "service": "Hematology Visit",
+                "price": "From $1,000"
+            },
+            {
+                "service": "Successive Hematology Visits",
+                "price": "From $1,000"
+            },
+            {
+                "service": "Bone marrow aspiration",
+                "price": "From $5,000"
+            },
+            {
+                "service": "Blood Count",
+                "price": "None"
+            },
+            {
+                "service": "Bone marrow biopsy by puncture",
+                "price": "None"
+            },
+            {
+                "service": "Study of the bone marrow",
+                "price": "None"
+            },
+            {
+                "service": "Lumbar puncture",
+                "price": "None"
+            },
+            {
+                "service": "Chemotherapy (per 3 to 4 week cycle)",
+                "price": "None"
+            },
+            {
+                "service": "Therapeutic bloodletting",
+                "price": "None"
+            },
+            {
+                "service": "Blood transfusion or blood products",
+                "price": "None"
+            },
+            {
+                "service": "Anticoagulant treatment",
+                "price": "None"
+            },
+            {
+                "service": "Treatment with parenteral iron",
+                "price": "None"
+            },
+            {
+                "service": "Hematology home visit",
+                "price": "None"
+            },
+            {
+                "service": "Hematology consultation",
+                "price": "From $1,000"
+            },
+            {
+                "service": "Follow-up consultation",
+                "price": "From $1,000"
+            }
+        ],
+        "insurance_companies": [
+            "GNP Seguros",
+            "AXA Seguros",
+            "Seguros Atlas",
+            "MetLife México",
+            "Seguros Monterrey",
+            "Ajuste a Tabulador"
+        ],
+        "reviews": [
+            {
+                "review_name": "Guillermo Diaz Villanueva",
+                "stars": "5",
+                "comment": "Very kind and professional attention, the Doctor very competent and explicit",
+                "date": "August 17, 2026",
+                "place": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste/ Al interior del Edificio que dice. Laboratorio de Patologia ) 83000 Hermosillo",
+                "procedure": "First Hematology visit"
+            },
+            {
+                "review_name": "F.R.",
+                "stars": "5",
+                "comment": "Everything excellently explained, their treatment super kind",
+                "date": "August 4, 2026",
+                "place": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste/ Al interior del Edificio que dice. Laboratorio de Patologia ) 83000 Hermosillo",
+                "procedure": "First Hematology visit"
+            },
+            {
+                "review_name": "Laura Borquez",
+                "stars": "5",
+                "comment": "Very good, very attentive and accurate the doctor, empathetic and special.",
+                "date": "June 26, 2026",
+                "place": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste/ Al interior del Edificio que dice. Laboratorio de Patologia ) 83000 Hermosillo",
+                "procedure": "First Hematology visit"
+            },
+            {
+                "review_name": "Bianca",
+                "stars": "5",
+                "comment": "I highly recommend it, I went to my first appointment and I left really delighted with the treatment, the detailed and specific information, the doctor knows what she is talking about and conveys confidence and certainty when explaining things related to your condition. Thank you very much",
+                "date": "June 5, 2026",
+                "place": "Oncología San  José (Hospital San José/ Acceso por el tercer nivel del estacionamiento del hospital)",
+                "procedure": "First Hematology visit"
+            },
+            {
+                "review_name": "Ricardo  A Armenta E",
+                "stars": "5",
+                "comment": "Well, it was the first visit with her and we liked her manner, her way of examining my daughter and talking to us with a lot of responsibility without giving a rushed diagnosis...",
+                "date": "March 25, 2026",
+                "place": "Oncología San  José (Hospital San José/ Acceso por el tercer nivel del estacionamiento del hospital)",
+                "procedure": "First Hematology visit"
+            },
+            {
+                "review_name": "Ildelisa Martínez",
+                "stars": "5",
+                "comment": "Doctor Syria is very attentive, patient, and investigates thoroughly. She explained to us how her treatment would be step by step.",
+                "date": "January 27, 2026",
+                "place": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste/ Al interior del Edificio que dice. Laboratorio de Patologia ) 83000 Hermosillo",
+                "procedure": "First Hematology visit"
+            },
+            {
+                "review_name": "Marisol Mendoza",
+                "stars": "5",
+                "comment": "They recommended Dr. to us, and she gave us a lot of peace of mind, she explains things very well, very professional. We are just about to start the treatment and she gave us the confidence and assurance that things have a solution and will improve.",
+                "date": "January 21, 2026",
+                "place": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste/ Al interior del Edificio que dice. Laboratorio de Patologia ) 83000 Hermosillo",
+                "procedure": "First Hematology visit"
+            },
+            {
+                "review_name": "Mariana A.",
+                "stars": "5",
+                "comment": "The doctor is very kind, patient, and provides detailed information. I liked that she didn't just stick to the information I gave her but investigated further. I found her excellent.",
+                "date": "December 13, 2025",
+                "place": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste/ Al interior del Edificio que dice. Laboratorio de Patologia ) 83000 Hermosillo",
+                "procedure": "First Hematology visit"
+            },
+            {
+                "review_name": "Lucia Doumerc",
+                "stars": "5",
+                "comment": "Very professional and good attention, detailed explanation of each process to be done.",
+                "date": "November 14, 2025",
+                "place": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste/ Al interior del Edificio que dice. Laboratorio de Patologia ) 83000 Hermosillo",
+                "procedure": "First Hematology visit"
+            },
+            {
+                "review_name": "Susana Gpe Estupiñan",
+                "stars": "5",
+                "comment": "Excellent attention, attentive to the patient, good empathetic explanation",
+                "date": "October 14, 2025",
+                "place": "Colosio No. 18 interior 1. (frente a urgencias Clínica del Noroeste/ Al interior del Edificio que dice. Laboratorio de Patologia ) 83000 Hermosillo",
+                "procedure": "First Hematology visit"
+            }
+        ],
+        "scrape_date": "2026-08-30 23:22:04"
+    },
+    {
+        "doctor_name": "Dr.Miguel Abraham Lara Perez",
+        "specialty": "Angiologist",
+        "license": [
+            "12812934"
+        ],
+        "experience": {
+            "education": "None",
+            "about_me": "Angiología es basado en la disciplina dedicada a la profilaxis, estudio y tratamiento médico-quirúrgico de las enfermedades vasculares(venas, arterias y linfáticos), exceptuando las cardiacas e intracraneales.Lo más importante para usted es obtener un diagnóstico certero desde su primera valoración para iniciar un tratamiento preciso y mejorar su estado de salud actual,nosotros le ofrecemos ese beneficio100%.",
+            "treated_diseases": [
+                "Blood clot in the legs",
+                "Arteriosclerosis of the limbs",
+                "Hemangioma",
+                "Arterial embolism",
+                "Chronic venous insufficiency",
+                "Lymphedema",
+                "Thrombophlebitis",
+                "Abdominal aortic aneurysm",
+                "Cerebrovascular disease",
+                "Venous thromboembolism",
+                "Aortic dissection",
+                "Peripheral vascular disease",
+                "Carotid artery occlusion syndrome",
+                "Venous insufficiency",
+                "Gangrene",
+                "Deep vein thrombosis",
+                "Peripheral artery disease",
+                "Arterial insufficiency",
+                "Arteriosclerosis",
+                "Soft tissue gangrene",
+                "Atherosclerosis",
+                "Telangiectasia",
+                "Plaque buildup in the arteries",
+                "Arteriovenous malformations",
+                "Varicosity",
+                "Aneurysm",
+                "Varicose veins",
+                "Aortic aneurysm",
+                "Phlebitis",
+                "Diabetic Foot",
+                "Be"
+            ],
+            "languages": [
+                "Spanish"
+            ],
+            "approaches": [
+                "Arterial surgery",
+                "Endovascular surgery",
+                "Non-invasive vascular diagnosis",
+                "Angiology"
+            ],
+            "patients": [
+                "Adults",
+                "Children"
+            ],
+            "social_media": [
+                "//www.facebook.com/profile.php?id=100082785520919",
+                "//www.instagram.com/dr.abrahamlara"
+            ]
+        },
+        "clinics": [
+            {
+                "clinic_name": "TORRE MEDICA CIMA",
+                "address": "Avenida Paseo Río San Miguel,",
+                "map": "https://www.google.com/maps/search/?api=1&query=29.0654335,-110.962738",
+                "phone_numbers": [
+                    "622 188 0074",
+                    "Sin esperas"
+                ]
+            },
+            {
+                "clinic_name": "Hospital San Jose",
+                "address": "Blvd. José María Morelos 340,",
+                "map": "https://www.google.com/maps/search/?api=1&query=29.1206551,-110.9514999",
+                "phone_numbers": [
+                    "622 188 0074",
+                    "Sin esperas"
+                ]
+            },
+            {
+                "clinic_name": "Hospital San Jose Guaymas",
+                "address": "San Carlos,",
+                "map": "https://www.google.com/maps/search/?api=1&query=27.9530983,-111.0668716",
+                "phone_numbers": [
+                    "622 188 0074",
+                    "Sin esperas"
+                ]
+            },
+            {
+                "clinic_name": "Consulta en línea",
+                "address": "None",
+                "map": "None",
+                "phone_numbers": [
+                    "622 188 0074",
+                    "Sin esperas"
+                ]
+            },
+            {
+                "clinic_name": "Hospital San Diego Alcala",
+                "address": "Calle Benito Juárez & Avenida Nuevo León,",
+                "map": "https://www.google.com/maps/search/?api=1&query=29.0833035,-110.9538269",
+                "phone_numbers": [
+                    "622 188 0074",
+                    "Sin esperas"
+                ]
+            },
+            {
+                "clinic_name": "CENTRO MEDICO NOROESTE",
+                "address": "Avenida Luis Donaldo Colosio Murrieta 23,",
+                "map": "https://www.google.com/maps/search/?api=1&query=29.0815735,-110.9507599",
+                "phone_numbers": [
+                    "622 188 0074",
+                    "Sin esperas"
+                ]
+            }
+        ],
+        "services": [
+            {
+                "service": "First visit Angiology and Vascular Surgery",
+                "price": "From $0"
+            },
+            {
+                "service": "Removal of hemangiomas",
+                "price": "None"
+            },
+            {
+                "service": "Follow-up consultation",
+                "price": "From $800"
+            },
+            {
+                "service": "Diabetic Foot Treatments",
+                "price": "From $1,200"
+            },
+            {
+                "service": "Veinous Doppler eeii or eess",
+                "price": "None"
+            },
+            {
+                "service": "Pelvic venous embolization",
+                "price": "None"
+            },
+            {
+                "service": "Laser sclerotherapy of varicose veins",
+                "price": "None"
+            },
+            {
+                "service": "Chemical sclerosis of varicose veins",
+                "price": "None"
+            },
+            {
+                "service": "Sclerotherapy",
+                "price": "None"
+            },
+            {
+                "service": "Sclerotherapy with solution",
+                "price": "None"
+            },
+            {
+                "service": "Reinterventions for thrombosis and hemorrhages",
+                "price": "None"
+            },
+            {
+                "service": "Saphenous vein surgery by radiofrequency (closed)",
+                "price": "None"
+            },
+            {
+                "service": "Treatment of carotid disease",
+                "price": "From $1,500"
+            },
+            {
+                "service": "Endovascular treatment for acute venous thrombosis",
+                "price": "None"
+            },
+            {
+                "service": "Thrombectomy of the superior vena cava and its branches",
+                "price": "None"
+            },
+            {
+                "service": "Iliocaval or inferior vena cava thrombectomy",
+                "price": "None"
+            },
+            {
+                "service": "Venous thrombectomy of limbs",
+                "price": "None"
+            },
+            {
+                "service": "Arterial Thrombosis",
+                "price": "None"
+            },
+            {
+                "service": "Venous thrombosis. Ligation of the arch of the internal and external saphenous vein",
+                "price": "None"
+            },
+            {
+                "service": "Assessment and prevention of the diabetic foot",
+                "price": "None"
+            },
+            {
+                "service": "Percutaneous venous catheter placement",
+                "price": "None"
+            },
+            {
+                "service": "Diagnosis and treatment of leg ulcers",
+                "price": "None"
+            },
+            {
+                "service": "Carotid bifurcation surgery",
+                "price": "None"
+            },
+            {
+                "service": "Ileofemoral and femoropopliteal sector angioplasty",
+                "price": "None"
+            },
+            {
+                "service": "Aneurysms",
+                "price": "None"
+            },
+            {
+                "service": "Arterial and venous angioplasty",
+                "price": "None"
+            },
+            {
+                "service": "Abdominal aortic angioplasty",
+                "price": "None"
+            },
+            {
+                "service": "Angioplasty in carotid and vertebral occlusion",
+                "price": "None"
+            },
+            {
+                "service": "Surgery for complex angiodysplasias",
+                "price": "None"
+            },
+            {
+                "service": "Surgical angioplasty and simple limb lining",
+                "price": "None"
+            },
+            {
+                "service": "Unilateral femoropopliteal angioplasty",
+                "price": "None"
+            },
+            {
+                "service": "Unilateral arteriography of upper limbs",
+                "price": "None"
+            },
+            {
+                "service": "Bypass with vascular grafts",
+                "price": "None"
+            },
+            {
+                "service": "Femoro-popliteal bypass, first portion with vein and/or prosthesis",
+                "price": "None"
+            },
+            {
+                "service": "A-V bypass with vein or prosthesis for hemodialysis",
+                "price": "None"
+            },
+            {
+                "service": "Abdominal and infrarenal aortic bypass, bi-iliac and bifemoral",
+                "price": "None"
+            },
+            {
+                "service": "Femoropopliteal bypass with angioplasty",
+                "price": "None"
+            },
+            {
+                "service": "Varicose veins: Diagnosis and treatment",
+                "price": "None"
+            },
+            {
+                "service": "Aorto-iliac and aorto-femoral bypass",
+                "price": "None"
+            },
+            {
+                "service": "Reconstruction and revascularization of peripheral aneurysm",
+                "price": "None"
+            },
+            {
+                "service": "Arteriovenous fistulas for hemodialysis",
+                "price": "None"
+            },
+            {
+                "service": "Vascular Surgery Consultation",
+                "price": "None"
+            },
+            {
+                "service": "Surgical treatment for acute arterial insufficiency",
+                "price": "None"
+            },
+            {
+                "service": "Excision of by-pass or A-V fistula",
+                "price": "None"
+            },
+            {
+                "service": "Amputation of limbs",
+                "price": "None"
+            },
+            {
+                "service": "Successive visits Angiology and Vascular Surgery",
+                "price": "From $1,000"
+            },
+            {
+                "service": "Caval vein thrombosis, bypass",
+                "price": "$1,500"
+            },
+            {
+                "service": "Angiology and Vascular Surgery Visit",
+                "price": "None"
+            },
+            {
+                "service": "Arterial Doppler ultrasound in extremities",
+                "price": "None"
+            },
+            {
+                "service": "Venous Doppler ultrasound in extremities",
+                "price": "None"
+            },
+            {
+                "service": "Online consultation",
+                "price": "None"
+            },
+            {
+                "service": "Recurrent varicose veins",
+                "price": "None"
+            }
+        ],
+        "insurance_companies": [
+            "GNP Seguros",
+            "AXA Seguros",
+            "MAPFRE",
+            "Seguros Atlas",
+            "MetLife México",
+            "Zurich",
+            "Bupa México",
+            "Allianz",
+            "Seguros Inbursa",
+            "Metropolitana",
+            "Seguros Monterrey",
+            "Plan Seguro",
+            "Latino Seguros",
+            "Seguros Banorte",
+            "Pan-American",
+            "Odontoprev",
+            "Dentalia",
+            "Centauro",
+            "Integra Salud",
+            "Quálitas",
+            "Multiva",
+            "Medical Home",
+            "Prevem Seguros",
+            "BX+",
+            "Sura",
+            "Human Access",
+            "FIRA",
+            "Arcángel",
+            "SIMNSA",
+            "General de Seguros",
+            "Sinergia Médica",
+            "Seguros El Potosí",
+            "ISSFAM",
+            "Bancomext",
+            "Red Médica Universidad de Guanajuato",
+            "Afirme",
+            "Red Benefit",
+            "Delta Dental",
+            "Blue Cross Blue Shield",
+            "Médica Vial",
+            "Best Doctors",
+            "Inter Mutuelles Assistance",
+            "SAIN",
+            "AIG",
+            "CNBV",
+            "Aetna",
+            "Cigna Healthcare",
+            "Principal",
+            "UFCW Health & Welfare Trust",
+            "Universal Assistance",
+            "Dental First",
+            "BBVA Seguros",
+            "GEA Internacional",
+            "Ajuste a Tabulador",
+            "Medical Group",
+            "Seguros Banamex",
+            "Chubb",
+            "Micro Medical",
+            "UADY",
+            "HDI",
+            "HSBC",
+            "Thona Seguros",
+            "PIF",
+            "Banejercito",
+            "Global Excel",
+            "Prodental",
+            "OCEAS",
+            "Guardian Life",
+            "Choice Net",
+            "Vumi",
+            "LYNCPAY",
+            "Scotiabank",
+            "MMS",
+            "Santander Seguros",
+            "Dentegra",
+            "Ameritas",
+            "Asismed",
+            "ASPA",
+            "BANCO BANOBRAS",
+            "Banxico",
+            "Multiservices Santander",
+            "MSH International",
+            "Inflexión Salud",
+            "Meritain Health",
+            "Mediciplus",
+            "MediExcel",
+            "Musar",
+            "BCBS",
+            "General de Salud",
+            "Red Salud Dental",
+            "United Concordia Dental",
+            "Southwest Service Administrators",
+            "Solorzano Jacquez y Asoc",
+            "Assurant Employee Benefits",
+            "Anthem Blue Cross",
+            "HealthComp",
+            "Delta Health System",
+            "CCPOA Health Benefits",
+            "LINECO",
+            "OMA",
+            "ASPrisma",
+            "Dentralia",
+            "Intuitiv",
+            "International Medical Solutions",
+            "EuroCenter",
+            "Global Health NOW",
+            "Henner Group",
+            "Morgan White",
+            "United Healthcare Global",
+            "Well Be",
+            "Omni Networks",
+            "Sofía",
+            "GEHA",
+            "Humana Dental",
+            "Lincoln Financial Group",
+            "SIGMA",
+            "Banco del Bienestar",
+            "SCT Metro",
+            "Blueassistance",
+            "GMS",
+            "GERSEMI",
+            "INDEP",
+            "Médica Tabasco",
+            "United Healthcare Dental",
+            "Simples Dental",
+            "Operating Engineers Health & Welfare Fund",
+            "Gaha",
+            "SAISUV",
+            "Marina",
+            "ADO",
+            "Punto Pen",
+            "Red Académicos UNAM",
+            "GenoLife",
+            "Quest Diagnostics",
+            "PROSESO",
+            "Turbotec",
+            "Sinil",
+            "Core Seguros",
+            "Primero lozano",
+            "Calibaja",
+            "CADI Soluciones Salud",
+            "Easy Optics",
+            "GOA",
+            "TransSalud",
+            "HanseMerkur"
+        ],
+        "reviews": [
+            {
+                "review_name": "Yolanda",
+                "stars": "5",
+                "comment": "Excellent doctor! Very good treatment and explanation of the diagnosis",
+                "date": "August 28, 2026",
+                "place": "Hospital San Jose",
+                "procedure": "First visit Angiology and Vascular Surgery"
+            },
+            {
+                "review_name": "Julián García",
+                "stars": "5",
+                "comment": "Very good treatment, explains clearly, attends to the patient very well",
+                "date": "August 25, 2026",
+                "place": "TORRE MEDICA CIMA",
+                "procedure": "Successive visits Angiology and Vascular Surgery"
+            },
+            {
+                "review_name": "Luis Villavicencio",
+                "stars": "5",
+                "comment": "Excellent service and dedication to the patient, highly recommended",
+                "date": "August 19, 2026",
+                "place": "Hospital San Jose",
+                "procedure": "First visit Angiology and Vascular Surgery"
+            },
+            {
+                "review_name": "D.M",
+                "stars": "5",
+                "comment": "Improve punctuality so as not to make people wait for so long.",
+                "date": "August 18, 2026",
+                "place": "TORRE MEDICA CIMA",
+                "procedure": "Venous thrombosis. Ligation of the arch of the internal and external saphenous vein"
+            },
+            {
+                "review_name": "RC",
+                "stars": "5",
+                "comment": "Very clear and specific in providing his explanation",
+                "date": "August 15, 2026",
+                "place": "Hospital San Jose Guaymas",
+                "procedure": "First visit Angiology and Vascular Surgery"
+            },
+            {
+                "review_name": "GGBG",
+                "stars": "4",
+                "comment": "Reduce the waiting time to be consulted. Thank you",
+                "date": "August 11, 2026",
+                "place": "TORRE MEDICA CIMA",
+                "procedure": "Successive visits Angiology and Vascular Surgery"
+            },
+            {
+                "review_name": "XL",
+                "stars": "5",
+                "comment": "Professional and detailed explanation of monitoring, treatment, and medication as well as suggestions",
+                "date": "August 11, 2026",
+                "place": "TORRE MEDICA CIMA",
+                "procedure": "Successive visits Angiology and Vascular Surgery"
+            },
+            {
+                "review_name": "Anel monteverde",
+                "stars": "5",
+                "comment": "Excellent doctor explained and resolves doubts very professionally",
+                "date": "August 6, 2026",
+                "place": "TORRE MEDICA CIMA",
+                "procedure": "First visit Angiology and Vascular Surgery"
+            },
+            {
+                "review_name": "JGGB",
+                "stars": "5",
+                "comment": "Excellent doctor, he also gives you a lot of confidence in his consultations. Without a doubt, I would recommend him to my acquaintances...",
+                "date": "August 1, 2026",
+                "place": "Hospital San Jose Guaymas",
+                "procedure": "First visit Angiology and Vascular Surgery"
+            },
+            {
+                "review_name": "Juanita",
+                "stars": "5",
+                "comment": "Excellent attention and detailed explanations. Regards",
+                "date": "July 31, 2026",
+                "place": "Hospital San Jose",
+                "procedure": "Successive visits Angiology and Vascular Surgery"
+            }
+        ],
+        "scrape_date": "2026-08-30 23:22:05"
+    },
+    {
+        "doctor_name": "Dr.Jesús Maríñez",
+        "specialty": "Gastroenterologist",
+        "license": [
+            "10547939",
+            "14052970"
+        ],
+        "experience": {
+            "education": [
+                "Médico general, Universidad de Sonora (2017).Curso de Medicina Interna (2019-2020)Especialidad en Gastroenterología, Centro Médico Nacional Siglo XXI/UNAM (2021-2023)Alta Especialidad en Endoscopia Gastrointestinal Avanzada (2024-2025)"
+            ],
+            "about_me": "Hola, soy el Dr. Jesús Manuel Maríñez Rentería, médico gastroenterólogo, egresado delCentro Médico Nacional Siglo XXI, con formación avalada por laUNAM.Me especializo en eldiagnóstico y tratamiento de enfermedades del aparato digestivo, incluyendo esófago, estómago, intestinos, hígado y páncreas.Cuento con experience en el manejo de síntomas frecuentes como:dolor abdominal, reflujo, distensión, diarrea, estreñimiento, gastritis, colitis, hepatitis, cirrosis y pancreatitis, entre otros.Elegí esta specialty porque sé lo mucho que los problemas digestivos pueden afectar tu calidad de vida. Por eso, mi objetivo es ofrecerte una atenciónintegral y personalizada, basada en escuchar con atención, explicar con claridad y brindar un tratamiento eficaz, siempre con un tratohumano, empático y respetuoso.¿Por qué acudir conmigo?Te explico con palabras claras qué tienes y cómo lo vamos a tratarMe enfoco en tu bienestar integral, no solo en aliviar síntomasOfrezco un trato cercano, sin juicios, y resuelvo todas tus dudasCuento con formación en uno de los centros médicos más reconocidos del paísTe brindo seguimiento puntual y acompañamiento durante tu tratamientoTu salud digestiva merece atención especializada y un enfoque cálido.Estoy aquí para ayudarte a sentirte mejor, desde la primera consulta.",
+            "treated_diseases": [
+                "Gastroesophageal reflux",
+                "Gastritis",
+                "Colitis",
+                "Constipation",
+                "Abdominal pain",
+                "Diarrhea",
+                "Irritable colon",
+                "Fatty liver",
+                "Hepatitis",
+                "Pancreatitis",
+                "Chronic diarrhea",
+                "Acute gastroenteritis",
+                "Intestinal polyps",
+                "Peptic ulcer",
+                "Autoimmune hepatitis",
+                "Primary biliary cirrhosis",
+                "Dysphagia",
+                "Conditions related to jaundice",
+                "Diverticulitis",
+                "Acidity",
+                "Inflammatory bowel disease",
+                "Ulcerative colitis",
+                "Chronic gastritis",
+                "Gastroparesis",
+                "Chronic pancreatitis",
+                "Hepatic encephalopathy",
+                "Irritable bowel syndrome"
+            ],
+            "languages": "None",
+            "approaches": [
+                "Digestive endoscopy"
+            ],
+            "patients": [
+                "Adults (Only in some directions)",
+                "Children from 12 years old (Only in some directions)"
+            ],
+            "social_media": []
+        },
+        "clinics": [
+            {
+                "clinic_name": "CAE Guaymas",
+                "address": "Calle 9 224,",
+                "map": "https://www.google.com/maps/search/?api=1&query=27.9257526,-110.9026947",
+                "phone_numbers": []
+            },
+            {
+                "clinic_name": "Hospital San José de Guaymas",
+                "address": "Boulevard Tetakawi 4,",
+                "map": "https://www.google.com/maps/search/?api=1&query=27.9589825,-111.0383759",
+                "phone_numbers": []
+            },
+            {
+                "clinic_name": "Consulta en línea",
+                "address": "None",
+                "map": "None",
+                "phone_numbers": []
+            },
+            {
+                "clinic_name": "Endoscopias y colonoscopias",
+                "address": "Boulevard Tetakawi 4,",
+                "map": "https://www.google.com/maps/search/?api=1&query=27.9589825,-111.0383759",
+                "phone_numbers": []
+            }
+        ],
+        "services": [
+            {
+                "service": "Gastroenterology Visit",
+                "price": "From $1,200"
+            },
+            {
+                "service": "Online consultation",
+                "price": "$1,200"
+            },
+            {
+                "service": "Intragastric balloon for overweight and obesity",
+                "price": "From $500"
+            },
+            {
+                "service": "Total colonoscopy",
+                "price": "From $8,500"
+            },
+            {
+                "service": "Upper digestive endoscopy",
+                "price": "$7,000"
+            },
+            {
+                "service": "Panendo-colonoscopy",
+                "price": "From $15,000"
+            },
+            {
+                "service": "Diagnostic oral panendoscopy",
+                "price": "From $7,000"
+            }
+        ],
+        "insurance_companies": [],
+        "reviews": [
+            {
+                "review_name": "Sandra Paola González",
+                "stars": "5",
+                "comment": "Today I visited Dr. Mariñez's office. The experience was very gratifying. The doctor explains everything in detail and gives you a lot of reassurance. His vast knowledge of the subject is noticeable. Now I will start the treatment and will update this review.",
+                "date": "November 8, 2025",
+                "place": "Hospital San José de Guaymas",
+                "procedure": "Gastroenterology Visit"
+            },
+            {
+                "review_name": "Xochilt Alonso B",
+                "stars": "5",
+                "comment": "Dr. Maríñez was very professional and kind during my consultation. He took the time to listen to me carefully, ask me questions, and review my case in detail. He made me feel comfortable and confident that I was in good hands. I greatly appreciate his dedication and patience. I highly recommend him.",
+                "date": "August 23, 2025",
+                "place": "Hospital San José de Guaymas",
+                "procedure": "None"
+            },
+            {
+                "review_name": "Lokeshwaran",
+                "stars": "5",
+                "comment": "Very sharp and quick to diagnose the issue. Spends adequate time listening to us completely. Clear explanation of the possible cause, medication, and precautions.",
+                "date": "July 10, 2025",
+                "place": "Hospital San José de Guaymas",
+                "procedure": "None"
+            },
+            {
+                "review_name": "Eduardo Gutierrez Escobedo",
+                "stars": "5",
+                "comment": "I want to tell you that my experience was very gratifying, he is a pleasant doctor, he examined me very well, told me about my possible problem, prescribed me medicine, and that's it, problem solved... I highly recommend him, without a doubt he has become my doctor for these ailments. GREETINGS AND BLESSINGS",
+                "date": "June 3, 2026",
+                "place": "Hospital San José de Guaymas",
+                "procedure": "Gastroenterology Visit"
+            },
+            {
+                "review_name": "WD",
+                "stars": "5",
+                "comment": "Excellent experience. The doctor was extremely professional at all times, explained every detail clearly, and took the necessary time to answer all my questions, which gave me a lot of confidence. Additionally, he was very punctual and attentive during the consultation. Without a doubt, I highly recommend him.",
+                "date": "March 18, 2026",
+                "place": "Hospital San José de Guaymas",
+                "procedure": "Gastroenterology Visit"
+            },
+            {
+                "review_name": "Heyduran",
+                "stars": "5",
+                "comment": "Very good review and I am improving in my additional condition, I will return for some tests that were requested of me. Shows professionalism.",
+                "date": "March 17, 2026",
+                "place": "Hospital San José de Guaymas",
+                "procedure": "Gastroenterology Visit"
+            },
+            {
+                "review_name": "Roberto Leyva",
+                "stars": "5",
+                "comment": "The doctor was very punctual and kind at the appointment. He clarified all my doubts. I liked the approach he takes to rule out any problem. He recommended a more in-depth study to rule out any issue.",
+                "date": "March 16, 2026",
+                "place": "Hospital San José de Guaymas",
+                "procedure": "Gastroenterology Visit"
+            },
+            {
+                "review_name": "maricela",
+                "stars": "5",
+                "comment": "Excellent doctor, highly recommended, his professional and human approach gives you great peace of mind",
+                "date": "March 10, 2026",
+                "place": "Endoscopias y colonoscopias",
+                "procedure": "Total colonoscopy"
+            },
+            {
+                "review_name": "Ma Valdez",
+                "stars": "5",
+                "comment": "The doctor was super punctual and my check-up was very detailed, and his explanations were the same",
+                "date": "March 10, 2026",
+                "place": "Hospital San José de Guaymas",
+                "procedure": "Gastroenterology Visit"
+            },
+            {
+                "review_name": "Arq Moreno",
+                "stars": "5",
+                "comment": "Brief, precise, and effective, his diagnosis was reflected in the results of his treatment, he improved very quickly",
+                "date": "March 4, 2026",
+                "place": "Hospital San José de Guaymas",
+                "procedure": "Gastroenterology Visit"
+            }
+        ],
+        "scrape_date": "2026-08-30 23:22:07"
+    },
+    {
+        "doctor_name": "Dr.Eduardo Alarcón Garza",
+        "specialty": "General practitioner",
+        "license": [
+            "9487936"
+        ],
+        "experience": {
+            "education": "None",
+            "about_me": "None",
+            "treated_diseases": "None",
+            "idiomas": "None",
+            "approaches": "None",
+            "patients": "None",
+            "social_media": "None"
+        },
+        "clinics": [
+            {
+                "clinic_name": "Centro Médico Emmanuel",
+                "address": "San Carlos 353, ,",
+                "map": "https://www.google.com/maps/search/?api=1&query=27.9613609,-111.030632",
+                "phone_numbers": []
+            }
+        ],
+        "services": [
+            {
+                "service": "First visit General Medicine",
+                "price": "None"
+            }
+        ],
+        "insurance_companies": [],
+        "reviews": [],
+        "scrape_date": "2026-08-30 23:22:17"
+    },
+    {
+        "doctor_name": "Lic.Blanca Villa",
+        "specialty": "Complementary therapist",
+        "license": "None",
+        "experience": {
+            "education": [
+                "Certificación como Asesora en Psicología Integrativa por el Centro Universitario de Alternativas MedicasCertificación Internacional Coaching en Transformación Personal en AICTRAPCertificación Internacional como HEAL YOUR LIFE Teacher del LIBRO Tú puedes sanar tu vidaMediación en conflictos familiares y comunitarios por el Instituto de Mediacion de México S. C.Formación en BIIODESCODIFICACIÓN y TANATOLOGÍADiplomado en Constelaciones Familiares"
+            ],
+            "about_me": "HOLA! Con gusto te ofreceremos una PRIMERA SESIÓN de forma GRATUITA sólo por el gusto que nos da tenerte por aquí y que tomes un momento para conocer lo que hemos convertido en nuestra MISION de vida, te hablo del Proyecto \"RECREANDO VIDAS\", un ACOMPAÑAMIENTO para MUJERES que DESEAN dejar de vivir las experiences de una forma dolorosa y HACER CONSCIENTE su MARAVILLOSO PROCESO de TRANSFORMACIÓN PERSONAL recreando su realidad.Déjame platicarte además que yo soy parte de un maravilloso equipo con FACILITADORAS CERTIFICADAS en Mediación en Conflictos, Sexología, Tanatología, la METODOLOGÍA de Louise Hay que HA AYUDADO a MILES DE PERSONAS en el Mundo, Constelaciones Familiares, Programación Neurolingüística, Reiki y más para darte una EXPERIENCIA INTEGRAL en la que tu participación sea fundamental.Practicamos y enseñamos TÉCNICAS de relajación, VISUALIZACIÓN CREATIVA, pensamiento POSITIVO y EMPODERAMIENTO restándole fuerza a los miedos, culpas y CREENCIAS limitantes.Contamos con un equipo de PROFESIONALES y grupos entusiastas haciendo sinergia para apoyar en determinado momento cualquier inquietud que requiera ATENCIÓN ESPECIALIZADA.Brindamos HERRAMIENTAS y RECURSOS claves como ▪️Psicología Integrativa ▪️Coaching ▪️Movimientos sistémicos ▪️Constelaciones Familiares ▪️Programación Neurolingüística, la Mediación Familiar y muchos más para obtener los MEJORES RESULTADOS.TE SENTIRÁS CONTENIDA y GUIADA en cualquier proceso o situación que estés viviendo, y SENTIRÁS gradualmente los CAMBIOS que propician un ESTADO de BIENESTAR FÍSICO, MENTAL y EMOCIONAL.De forma presencial te ofrecemos CONSULTAS en SESIONES INDIVIDUALES O GRUPALES, TALLERES y RETIROS de algunas horas o MÁS DÍAS en un espacio armonizado para hacerte sentir SEGURA y CÓMODA, acompañada por la Coach guiándote en cada momento y, si te animas, puedes complementarlo con ratos de charlas, ocio y reflexión en un espacio diferente, en la Naturaleza, por ejemplo una Playa o un lindo place disfrutando un café con tu Coach...  por qué no?? LO MERECES. Disponte a pasar un TIEMPO EXTRAORDINARIO lejos de la Rutina y la Monotonía.Nuestros SERVICIOS están disponibles de forma Presencial en HERMOSILLO, SAN CARLOS, GUAYMAS o EN LÍNEA.TE SORPRENDERÁS al notar que la Dinámica de nuestras sesiones BENEFICIA a todos los que te rodean y tiene una INFLUENCIA POSITIVA en los miembros de nuestra FAMILIA o en nuestro ENTORNO aún cuando ellos no asistan porque los CAMBIOS se generan desde NOSOTROS mismos.REITERAMOS! La Atención puede ser INDIVIDUAL o GRUPAL, EN LÍNEA o TELEFÓNICA. En Consulta Presencial, Taller o Retiro.Somos una EXCELENTE OPCIÓN como un DESTINO de AUTOCONOCIMIENTO, RELAJACIÓN  y una mejor visión para la SOLUCIÓN DE CONFLICTOS.  Un espacio recreativo a tu alcance para RECREAR VIDAS!LAS INTENCIONES, SUEÑOS y DESEOS son la ENERGÍA que nos IMPULSA, SÓLO las ACCIONES manifiestan el RESULTADO. Que los tuyos sean TU MEJOR ESFUERZO.Nuestro lema es \"Cuando YO CAMBIO... el MUNDO alrededor de mí también CAMBIA\"...   La LUZ EN TÍ!",
+            "treated_diseases": [
+                "Depression",
+                "Duel",
+                "Low self-esteem",
+                "Stress",
+                "Management of emotions"
+            ],
+            "languages": "None",
+            "approaches": "None",
+            "patients": [
+                "Adults"
+            ],
+            "social_media": []
+        },
+        "clinics": [
+            {
+                "clinic_name": "ReCreando Vidas. Coaching. Psicología Integrativa y Transformación Personal.",
+                "address": "Mar de Cortés,",
+                "map": "https://www.google.com/maps/search/?api=1&query=27.9710732,-111.0117188",
+                "phone_numbers": []
+            }
+        ],
+        "services": [
+            {
+                "service": "Online consultation",
+                "price": "From $500"
+            },
+            {
+                "service": "Successive visits Complementary and Alternative Medicine",
+                "price": "$250"
+            },
+            {
+                "service": "Coaching",
+                "price": "From $500"
+            },
+            {
+                "service": "Family constellations",
+                "price": "From $500"
+            },
+            {
+                "service": "Stress Control",
+                "price": "$350"
+            },
+            {
+                "service": "Life coaching",
+                "price": "$500"
+            },
+            {
+                "service": "Grief management",
+                "price": "$500"
+            },
+            {
+                "service": "Holistic Psychology",
+                "price": "$500"
+            },
+            {
+                "service": "Experiential workshops",
+                "price": "From $250"
+            },
+            {
+                "service": "Therapy of emotions",
+                "price": "$500"
+            },
+            {
+                "service": "Positive psychology therapy",
+                "price": "$500"
+            },
+            {
+                "service": "Individual therapy",
+                "price": "$500"
+            },
+            {
+                "service": "Internet Therapy",
+                "price": "$500"
+            },
+            {
+                "service": "Reiki Therapy",
+                "price": "From $350"
+            }
+        ],
+        "insurance_companies": [],
+        "reviews": [
+            {
+                "review_name": "Paciente",
+                "stars": "5",
+                "comment": "Recommended, my experience is very good, seriousness in what they do, kindness in the treatment, punctual, honest",
+                "date": "September 9, 2022",
+                "place": "ReCreando Vidas. Coaching. Psicología Integrativa y Transformación Personal.",
+                "procedure": "Coaching"
+            },
+            {
+                "review_name": "Adriana Mendoza",
+                "stars": "5",
+                "comment": "I really liked your session; it made me reflect on several topics and helps you a lot to find the desired path.",
+                "date": "August 11, 2022",
+                "place": "ReCreando Vidas. Coaching. Psicología Integrativa y Transformación Personal.",
+                "procedure": "Coaching"
+            },
+            {
+                "review_name": "Hilda",
+                "stars": "5",
+                "comment": "From the very first moment I contacted Blanca, she had an incredible disposition, her tone of voice made me feel confident to express myself openly, she is attentive, dedicated, professional, explains in a clear, direct, and kind manner. In just a few sessions I have already experienced positive changes, and the constellation work is great. Totally recommendable!",
+                "date": "April 8, 2022",
+                "place": "Consultas en línea",
+                "procedure": "Online consultation"
+            },
+            {
+                "review_name": "Nancy",
+                "stars": "5",
+                "comment": "A very professional therapist, thanks to her I discovered family constellation therapy, it was very helpful in improving my relationships with my family",
+                "date": "December 7, 2021",
+                "place": "ReCreando Vidas. Coaching. Psicología Integrativa y Transformación Personal.",
+                "procedure": "Family constellations"
+            },
+            {
+                "review_name": "Leonor Figueroa Nieto",
+                "stars": "5",
+                "comment": "Excellent therapist, very accurate in her treatment, empathetic, sensitive, very experienced... A guarantee in emotional health!",
+                "date": "December 6, 2021",
+                "place": "ReCreando Vidas. Coaching. Psicología Integrativa y Transformación Personal.",
+                "procedure": "Family constellations"
+            },
+            {
+                "review_name": "Ana Gabriela",
+                "stars": "5",
+                "comment": "Highly recommended workshops where internal work is done, in which we work on all emotions, and according to our disposition, we can achieve improvement and understand the reasons for our behaviors, and in some way, the aim is to improve and grow as a human being.",
+                "date": "December 5, 2021",
+                "place": "otro place",
+                "procedure": "Other"
+            },
+            {
+                "review_name": "Faby",
+                "stars": "5",
+                "comment": "Excellent therapist and human being! Thank you for your quality and warmth as a person! Family constellations was a wonderful and healing experience.",
+                "date": "December 5, 2021",
+                "place": "ReCreando Vidas. Coaching. Psicología Integrativa y Transformación Personal.",
+                "procedure": "Family constellations"
+            },
+            {
+                "review_name": "Lorena Aguilar",
+                "stars": "5",
+                "comment": "Excellent service. A very prepared woman, full of values with a wonderful energy. Greetings from the State of Mexico, I hope you come back soon!",
+                "date": "December 5, 2021",
+                "place": "ReCreando Vidas. Coaching. Psicología Integrativa y Transformación Personal.",
+                "procedure": "Family constellations"
+            },
+            {
+                "review_name": "Nallely",
+                "stars": "5",
+                "comment": "Excellent consultations, and they dedicate 100% to each person. They give you new opportunities to see things",
+                "date": "December 5, 2021",
+                "place": "ReCreando Vidas. Coaching. Psicología Integrativa y Transformación Personal.",
+                "procedure": "None"
+            }
+        ],
+        "scrape_date": "2026-08-30 23:22:28"
+    },
+    {
+        "doctor_name": "Mtra.Laura Maribel Pacheco Poot",
+        "specialty": "Psychologist",
+        "license": [
+            "5869280",
+            "13138066",
+            "15370071"
+        ],
+        "experience": {
+            "education": "None",
+            "about_me": "Profesionista con experience en psicoterapia bajo el enfoque cognitivo-conductual. Experiencia teórica y práctica en evaluación psicológica forense, laboral y clínica.  Experiencia en entrevista con adultos, adolescentes y niños. Conocimientos de pruebas psicológicas, psicopatología, etapas de desarrollo, violencia familiar, pareja, perspectiva de género, abuso sexual. Así mismo, tengo conocimientos de derecho penal, familiar, derechos humanos y dictamen pericial.",
+            "treated_diseases": [
+                "Anxiety",
+                "Depression",
+                "Duel",
+                "Stress",
+                "Codependency",
+                "Behavior disorder",
+                "Post-traumatic stress",
+                "Obsessive-compulsive disorder (OCD)",
+                "Eating behavior disorder"
+            ],
+            "languages": "None",
+            "approaches": "None",
+            "patients": [
+                "Adults"
+            ],
+            "social_media": []
+        },
+        "clinics": [
+            {
+                "clinic_name": "Centro Médico Integral Saluda",
+                "address": "C. 50 Francisco de Montejo,",
+                "map": "https://www.google.com/maps/search/?api=1&query=21.0246449,-89.649147",
+                "phone_numbers": []
+            },
+            {
+                "clinic_name": "Conciencia Espacios Terapéuticos",
+                "address": "None",
+                "map": "https://www.google.com/maps/search/?api=1&query=27.9617882,-111.0371017",
+                "phone_numbers": []
+            }
+        ],
+        "services": [
+            {
+                "service": "Online consultation",
+                "price": "From $600"
+            },
+            {
+                "service": "First Psychology visit",
+                "price": "$650"
+            },
+            {
+                "service": "Psychology Visit",
+                "price": "From $600"
+            },
+            {
+                "service": "Successive Visits Psychology",
+                "price": "$650"
+            },
+            {
+                "service": "First-time consultation",
+                "price": "$650"
+            },
+            {
+                "service": "Online psychological consultation",
+                "price": "$600 - $650"
+            },
+            {
+                "service": "Crisis intervention",
+                "price": "$600 - $650"
+            },
+            {
+                "service": "Grief management",
+                "price": "$600"
+            },
+            {
+                "service": "Guidance for parents",
+                "price": "$600"
+            },
+            {
+                "service": "Psychotherapy",
+                "price": "$650"
+            },
+            {
+                "service": "Cognitive-behavioral therapy (CBT)",
+                "price": "$600"
+            },
+            {
+                "service": "Individual therapy",
+                "price": "$600 - $650"
+            },
+            {
+                "service": "Therapy for adults",
+                "price": "$600"
+            }
+        ],
+        "insurance_companies": [],
+        "reviews": [],
+        "scrape_date": "2026-08-30 23:22:38"
+    },
+    {
+        "doctor_name": "Dr.Salvador Mancera Rodriguez",
+        "specialty": "Pediatrician",
+        "license": [
+            "3996871",
+            "5554007",
+            "7130318"
+        ],
+        "experience": {
+            "education": [
+                "neonatologia, UNAM, 2010"
+            ],
+            "about_me": "None",
+            "treated_diseases": [
+                "Partial deafness in babies"
+            ],
+            "languages": "None",
+            "approaches": [
+                "Neonatology"
+            ],
+            "patients": [],
+            "social_media": []
+        },
+        "clinics": [
+            {
+                "clinic_name": "Consultorio privado",
+                "address": "carretera internacional 2319 fracc. san carlos,",
+                "map": "https://www.google.com/maps/search/?api=1&query=27.9613609,-111.030632",
+                "phone_numbers": []
+            }
+        ],
+        "services": [
+            {
+                "service": "First Pediatric Visit",
+                "price": "From $500"
+            },
+            {
+                "service": "Cardiac screening",
+                "price": "From $800"
+            },
+            {
+                "service": "Metabolic screening",
+                "price": "From $700"
+            },
+            {
+                "service": "Neonatal screening",
+                "price": "None"
+            },
+            {
+                "service": "Expanded neonatal screening",
+                "price": "From $2,000"
+            }
+        ],
+        "insurance_companies": [],
+        "reviews": [],
+        "scrape_date": "2026-08-30 23:22:49"
+    },
+    {
+        "doctor_name": "Dr.Juan Carlos Cota Rivera",
+        "specialty": "General practitioner",
+        "license": [
+            "12083115"
+        ],
+        "experience": {
+            "education": [
+                "CENTRO DE ESTUDIOS SUPERIORES XOCHICALCOUNIVERSIDAD ANAHUACUNIVERSIDAD UAHMPRAXUS MEDCUMMMES SURInstitución Educativa Líder en Formación JurídicaCOLEGIO DE MEDICOS ESTETICOS DE SONORA"
+            ],
+            "about_me": "Soy el Doctor Juan Carlos Cota Rivera, padre de familia y médico de profesión, como profesional de la medicina estética y regenerativa, mi trayectoria se fundamenta en una sólida formación académica y especializaciones en áreas clave. Poseo un posgrado en Derecho Médico para gestionar riesgos y ética profesional, y me especialicé en Medicina Estética y Regenerativa, así como en Patologías Cardiacas, demostrando un enfoque integral hacia la salud. Como CEO de Clínica Epiderma, lidero centros de referencia en tratamientos estéticos avanzados. Además, como director de Doctorealo, garantizo el cumplimiento legal en salud. Mis habilidades incluyen aplicación de rellenos faciales y certificaciones en diversas técnicas estéticas, priorizando resultados seguros y naturales.",
+            "treated_diseases": "None",
+            "languages": "None",
+            "approaches": "None",
+            "patients": [
+                "Adults (Only in some directions)"
+            ],
+            "social_media": []
+        },
+        "clinics": [
+            {
+                "clinic_name": "Epiderma | Cd. Obregón",
+                "address": "Calle Sinaloa 737,",
+                "map": "https://www.google.com/maps/search/?api=1&query=27.5086002,-109.9319382",
+                "phone_numbers": []
+            },
+            {
+                "clinic_name": "Epiderma | San Carlos",
+                "address": "Camino de los Yaquis,",
+                "map": "https://www.google.com/maps/search/?api=1&query=27.9654446,-111.0443649",
+                "phone_numbers": []
+            },
+            {
+                "clinic_name": "Dr. Juan Carlos Cota Rivera",
+                "address": "Veracruz #110 entre Guerrero e Hidalgo colonia Centro,",
+                "map": "https://www.google.com/maps/search/?api=1&query=19.1737728,-96.1342239",
+                "phone_numbers": []
+            }
+        ],
+        "services": [
+            {
+                "service": "First visit General Medicine",
+                "price": "From $25"
+            },
+            {
+                "service": "Botox Application (Minimum 20 units)",
+                "price": "From $1,900"
+            },
+            {
+                "service": "Botox Application",
+                "price": "From $3,400"
+            },
+            {
+                "service": "Jawline marking with hyaluronic acid",
+                "price": "From $9,900"
+            },
+            {
+                "service": "Relaxing massage",
+                "price": "From $999"
+            }
+        ],
+        "insurance_companies": [],
+        "reviews": [],
+        "scrape_date": "2026-08-30 23:23:00"
+    },
+    {
+        "doctor_name": "Dr.Adán Pérez López",
+        "specialty": "Plastic surgeon",
+        "license": [
+            "09717950",
+            "4570057"
+        ],
+        "experience": {
+            "education": "None",
+            "about_me": "",
+            "treated_diseases": "None",
+            "languages": "None",
+            "approaches": "None",
+            "patients": [],
+            "social_media": []
+        },
+        "clinics": [
+            {
+                "clinic_name": "Hospital San José de Guaymas",
+                "address": "Blvd. Tetakawi Lote Kilometro. 4-5,  San Carlos, Son.,",
+                "map": "https://www.google.com/maps/search/?api=1&query=27.9617882,-111.0371017",
+                "phone_numbers": []
+            }
+        ],
+        "services": [
+            {
+                "service": "First visit Plastic Surgery",
+                "price": "None"
+            }
+        ],
+        "insurance_companies": [],
+        "reviews": [],
+        "scrape_date": "2026-08-30 23:23:05"
+    },
+    {
+        "doctor_name": "Dra.Stephanie Carolina Plancarte Cervantes",
+        "specialty": "Rheumatologist",
+        "license": [
+            "10922394",
+            "12555146"
+        ],
+        "experience": {
+            "education": "None",
+            "about_me": "None",
+            "treated_diseases": [
+                "Psoriatic arthritis",
+                "Reactive arthritis",
+                "Rheumatoid arthritis",
+                "Lung disease associated with rheumatoid arthritis",
+                "Collagen vascular disease",
+                "Ankylosing spondylitis",
+                "Lupus",
+                "Osteoarthritis",
+                "Osteoporosis",
+                "Sjogren's syndrome",
+                "Necrotizing vasculitis"
+            ],
+            "languages": "None",
+            "approaches": "None",
+            "patients": [],
+            "social_media": []
+        },
+        "clinics": [
+            {
+                "clinic_name": "hospital San José de Guaymas",
+                "address": "Boulevard Manlio Fabio Beltrones 100,",
+                "map": "https://www.google.com/maps/search/?api=1&query=27.9635448,-111.0227356",
+                "phone_numbers": []
+            }
+        ],
+        "services": [
+            {
+                "service": "Rheumatology Visit",
+                "price": "None"
+            }
+        ],
+        "insurance_companies": [],
+        "reviews": [],
+        "scrape_date": "2026-08-30 23:23:16"
+    },
+    {
+        "doctor_name": "Lic.María del Carmen Pérez Medina",
+        "specialty": "Psychologist",
+        "license": [
+            "6163366"
+        ],
+        "experience": {
+            "education": "None",
+            "about_me": "None",
+            "treated_diseases": "None",
+            "idiomas": "None",
+            "approaches": "None",
+            "patients": "None",
+            "social_media": "None"
+        },
+        "clinics": [
+            {
+                "clinic_name": "Terapia psicologica cognitivo conductual",
+                "address": "Ave. D #302 Ranchitos Campestre ,",
+                "map": "https://www.google.com/maps/search/?api=1&query=27.9741993,-111.0299377",
+                "phone_numbers": []
+            }
+        ],
+        "services": [
+            {
+                "service": "Online consultation",
+                "price": "$850"
+            },
+            {
+                "service": "Psychology Visit",
+                "price": "$850"
+            },
+            {
+                "service": "Online psychological consultation",
+                "price": "$850"
+            },
+            {
+                "service": "Crisis intervention",
+                "price": "$950"
+            },
+            {
+                "service": "Grief management",
+                "price": "$850"
+            },
+            {
+                "service": "Guidance for parents",
+                "price": "$800"
+            },
+            {
+                "service": "Psychotherapy",
+                "price": "$850"
+            },
+            {
+                "service": "Family psychotherapy",
+                "price": "$950"
+            },
+            {
+                "service": "Cognitive-behavioral therapy (CBT)",
+                "price": "$950"
+            },
+            {
+                "service": "Couples therapy",
+                "price": "$1,100"
+            },
+            {
+                "service": "Family therapy",
+                "price": "$1,100"
+            },
+            {
+                "service": "Individual therapy",
+                "price": "$850"
+            },
+            {
+                "service": "Therapy for adults",
+                "price": "$850"
+            }
+        ],
+        "insurance_companies": [],
+        "reviews": [],
+        "scrape_date": "2026-08-30 23:23:26"
+    },
+    {
+        "doctor_name": "Lic.Melanie Gaytan",
+        "specialty": "Nutritionist",
+        "license": "None",
+        "experience": {
+            "education": "None",
+            "about_me": "None",
+            "treated_diseases": "None",
+            "languages": "None",
+            "approaches": [
+                "Clinical nutrition"
+            ],
+            "patients": [],
+            "social_media": []
+        },
+        "clinics": [
+            {
+                "clinic_name": "Centro Médico Emmanuel",
+                "address": "San Carlos 353, ,",
+                "map": "https://www.google.com/maps/search/?api=1&query=27.9613609,-111.030632",
+                "phone_numbers": []
+            }
+        ],
+        "services": [],
+        "insurance_companies": [],
+        "reviews": [],
+        "scrape_date": "2026-08-30 23:23:37"
+    },
+    {
+        "doctor_name": "Jose De  Jesus Peña Martinez",
+        "specialty": "Gynecologist",
+        "license": "None",
+        "experience": {
+            "education": "None",
+            "about_me": "None",
+            "treated_diseases": "None",
+            "idiomas": "None",
+            "approaches": "None",
+            "patients": "None",
+            "social_media": "None"
+        },
+        "clinics": [
+            {
+                "clinic_name": "",
+                "address": "La Gavia Sn, Col. Ej La Gavia, ,",
+                "map": "https://www.google.com/maps/search/?api=1&query=27.9613609,-111.030632",
+                "phone_numbers": []
+            }
+        ],
+        "services": [],
+        "insurance_companies": [],
+        "reviews": [],
+        "scrape_date": "2026-08-30 23:23:48"
+    }
+]
