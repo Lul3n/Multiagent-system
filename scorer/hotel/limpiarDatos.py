@@ -1,16 +1,20 @@
 from atributos import precio, calif, resenas, extraerAmenidades
 
 def limpiarHotel(hotel):
-    moneda, monto = precio(hotel["precio_total"])
-    rating = calif(hotel["rating"])
-    numResenas = resenas(hotel["num_resenas"])
+    precio_raw = hotel.get("precio_total") or hotel.get("price_total")
+    rating_raw = hotel.get("rating")
+    resenas_raw = hotel.get("num_resenas") or hotel.get("reviews_num")
+
+    moneda, monto = precio(precio_raw) if precio_raw else ("MXN", 0.0)
+    rating = calif(rating_raw)
+    numResenas = resenas(resenas_raw)
     amenidades = extraerAmenidades(hotel)
 
     newHotel = {    
-                "nombre": hotel.get("nombre"),
+                "nombre": hotel.get("nombre") or hotel.get("name"),
                 "link": hotel.get("link"),
-                "zona": hotel.get("zona"),
-                "tipo": hotel.get("tipo"),
+                "zona": hotel.get("zona") or hotel.get("area"),
+                "tipo": hotel.get("tipo") or hotel.get("type"),
                 "vendor": hotel.get("vendor"),
                 "precio": monto,
                 "moneda": moneda,

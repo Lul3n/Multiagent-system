@@ -63,9 +63,8 @@ def extraerAmenidades(hotel):
     amenidades = set()
 
     fuentes = [
-        # puede que una fuente no exista. en los datos que tenemos ahorita siempre existe 'facilidades_populares'
-        # pero 'property_highlights' es nulo en por lo menos 1 caso.
-        hotel.get("facilidades_populares") or [],
+        # puede que una fuente no exista
+        hotel.get("facilidades_populares") or hotel.get("popular_amenities") or [],
         hotel.get("property_highlights") or []
     ]
 

@@ -1,5 +1,5 @@
 # ==============================================================================
-# Variables de entrada para la infraestructura del Equipo Charlie
+# Variables de entrada para la infraestructura
 # ==============================================================================
 # Estas variables permiten reutilizar el mismo código para distintos entornos
 # (dev, staging, prod) sin modificar la lógica principal.
@@ -7,7 +7,7 @@
 variable "aws_region" {
   description = "Región de AWS donde se despliega la infraestructura"
   type        = string
-  default     = "us-east-1" # Virginia: región más completa y confiable para Free Tier
+  default     = "us-east-1" 
 }
 
 variable "project_name" {
