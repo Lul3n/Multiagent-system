@@ -170,7 +170,7 @@ def translate_strings(strings: dict[str, str]) -> dict[str, str]:
     for key in strings.keys():
         i += 1
         if strings[key].startswith("Desde $"):
-            result[key] = f"Starting at ${strings[key].removeprefix("Desde $")}"
+            result[key] = f"Starting at ${strings[key].removeprefix('Desde $')}"
             continue
 
         try:
