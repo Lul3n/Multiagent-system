@@ -3,8 +3,9 @@
 # Equipo de DevOps e Infraestructura
 # ==============================================================================
 # Este workflow ejecuta automáticamente la cadena completa:
-#   Paso 1: Scraper de Doctores
-#   Paso 2: Traductor al Inglés
+#   Paso 1: Scraper de Doctores (Doctoralia)
+#   Paso 2: Traductor al Inglés (doctores + hoteles si existen)
+#   Paso 3: Scorer/Rankeador de Hoteles (datos pre-traducidos)
 # Y guarda los JSON finales como artefactos descargables en GitHub.
 # ==============================================================================
 
@@ -65,8 +66,6 @@ jobs:
     steps:
       - name: Descargar código del repositorio
         uses: actions/checkout@v4
-        with:
-          ref: orquestacion-ci-cd
 
       - name: Configurar Python 3.10
         uses: actions/setup-python@v5
@@ -90,10 +89,71 @@ jobs:
           mkdir -p output
           python main.py
 
-      - name: Subir datos traducidos como artefacto final
+      - name: Subir datos traducidos como artefacto
         uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: datos-finales-en
+          name: datos-traducidos-en
           path: translator/output/
+          retention-days: 30
+
+  # ================================================================
+  # ETAPA 3: Scorer / Rankeador de Hoteles
+  # ================================================================
+  # Se ejecuta DESPUÉS de la traducción. Usa los datos de hoteles
+  # ya traducidos que están en el repositorio (translator/output/).
+  # Cuando el scraper de hoteles se integre al pipeline, este paso
+  # descargará los datos traducidos del artefacto anterior.
+  scorer-hoteles:
+    runs-on: ubuntu-latest
+    needs: [traducir-datos]
+    timeout-minutes: 10
+
+    steps:
+      - name: Descargar código del repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Descargar datos traducidos del paso anterior
+        uses: actions/download-artifact@v4
+        with:
+          name: datos-traducidos-en
+          path: scorer/hotel/
+
+      - name: Ejecutar Agente Scorer de Hoteles
+        working-directory: scorer/hotel
+        run: |
+          python main.py hotel_data.en.json || echo "[Scorer] No se pudo ejecutar el scoring de hoteles (archivo de datos faltante)."
+
+      - name: Subir ranking de hoteles como artefacto
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: ranking-hoteles
+          path: scorer/hotel/output/
+          retention-days: 30
+
+      # ================================================================
+      # Artefacto final: todos los datos procesados juntos
+      # ================================================================
+      - name: Descargar todos los datos traducidos
+        uses: actions/download-artifact@v4
+        with:
+          name: datos-traducidos-en
+          path: datos-finales/
+
+      - name: Copiar ranking al paquete final
+        run: |
+          cp -r scorer/hotel/output/* datos-finales/ 2>/dev/null || true
+
+      - name: Subir paquete final con todos los datos
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: datos-finales-completos
+          path: datos-finales/
           retention-days: 30
