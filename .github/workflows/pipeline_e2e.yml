@@ -1,11 +1,10 @@
-# ==============================================================================
-# Pipeline E2E — Orquestación del Sistema Multiagentes
-# Equipo de DevOps e Infraestructura
-# ==============================================================================
+
 # Este workflow ejecuta automáticamente la cadena completa:
 #   Paso 1: Scraper de Doctores (Doctoralia)
 #   Paso 2: Traductor al Inglés (doctores + hoteles si existen)
 #   Paso 3: Scorer/Rankeador de Hoteles (datos pre-traducidos)
+#   Paso 4: Scorer/Rankeador de Doctores (datos crudos del scraper)
+#   Final:  Consolidar todos los rankings y datos traducidos
 # Y guarda los JSON finales como artefactos descargables en GitHub.
 # ==============================================================================
 
@@ -20,7 +19,7 @@ on:
 
 jobs:
   # ================================================================
-  # ETAPA 1: Scraper de Doctores (Doctoralia)
+  # Fase 1: Scraper de Doctores (Doctoralia)
   # ================================================================
   scraper-doctores:
     runs-on: ubuntu-latest
@@ -55,7 +54,7 @@ jobs:
           retention-days: 30
 
   # ================================================================
-  # ETAPA 2: Traducción al Inglés
+  # fase 2: Traducción al Inglés
   # ================================================================
   # Se ejecuta DESPUÉS de que el scraper termine exitosamente
   traducir-datos:
@@ -98,12 +97,10 @@ jobs:
           retention-days: 30
 
   # ================================================================
-  # ETAPA 3: Scorer / Rankeador de Hoteles
+  # Fase 3: Scorer / Rankeador de Hoteles
   # ================================================================
   # Se ejecuta DESPUÉS de la traducción. Usa los datos de hoteles
   # ya traducidos que están en el repositorio (translator/output/).
-  # Cuando el scraper de hoteles se integre al pipeline, este paso
-  # descargará los datos traducidos del artefacto anterior.
   scorer-hoteles:
     runs-on: ubuntu-latest
     needs: [traducir-datos]
@@ -137,23 +134,87 @@ jobs:
           path: scorer/hotel/output/
           retention-days: 30
 
-      # ================================================================
-      # Artefacto final: todos los datos procesados juntos
-      # ================================================================
-      - name: Descargar todos los datos traducidos
+  # ================================================================
+  # Fase 4: Scorer / Rankeador de Doctores
+  # ================================================================
+  # Se ejecuta DESPUÉS del scraper de doctores. Usa el JSON crudo
+  # generado por el scraper (doctor_data.json).
+  scorer-doctores:
+    runs-on: ubuntu-latest
+    needs: [scraper-doctores]
+    timeout-minutes: 10
+
+    steps:
+      - name: Descargar código del repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Descargar JSON crudo del scraper
+        uses: actions/download-artifact@v4
+        with:
+          name: doctor-data-raw
+          path: scorer/doctores/
+
+      - name: Ejecutar Agente Scorer de Doctores
+        working-directory: scorer/doctores
+        run: |
+          python main.py doctor_data.json
+
+      - name: Subir ranking de doctores como artefacto
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: ranking-doctores
+          path: scorer/doctores/output/
+          retention-days: 30
+
+  # Espera a que TODOS los agentes terminen y empaqueta los
+  # resultados en un solo artefacto descargable.
+  consolidar-datos:
+    runs-on: ubuntu-latest
+    needs: [traducir-datos, scorer-hoteles, scorer-doctores]
+    if: always()
+    timeout-minutes: 5
+
+    steps:
+      - name: Crear directorio de datos finales
+        run: mkdir -p datos-finales
+
+      - name: Descargar datos traducidos
         uses: actions/download-artifact@v4
         with:
           name: datos-traducidos-en
           path: datos-finales/
+        continue-on-error: true
 
-      - name: Copiar ranking al paquete final
+      - name: Descargar ranking de hoteles
+        uses: actions/download-artifact@v4
+        with:
+          name: ranking-hoteles
+          path: datos-finales/
+        continue-on-error: true
+
+      - name: Descargar ranking de doctores
+        uses: actions/download-artifact@v4
+        with:
+          name: ranking-doctores
+          path: datos-finales/
+        continue-on-error: true
+
+      - name: Listar contenido del paquete final
         run: |
-          cp -r scorer/hotel/output/* datos-finales/ 2>/dev/null || true
+          echo "=== Contenido del paquete final ==="
+          ls -la datos-finales/
+          echo "==================================="
 
       - name: Subir paquete final con todos los datos
         uses: actions/upload-artifact@v4
-        if: always()
         with:
           name: datos-finales-completos
           path: datos-finales/
           retention-days: 30
+
